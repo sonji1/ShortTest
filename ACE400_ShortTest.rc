@@ -1,0 +1,279 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 18, 1\r\n"
+    "#pragma code_page(949)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\ACE400_ShortTest.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.kor\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\ACE400_ShortTest.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "ACE400_ShortTest 정보"
+FONT 9, "굴림"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "ACE400_ShortTest 버전 1.0",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2018",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "확인",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_MAIN_DIALOG DIALOGEX 0, 0, 466, 400
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "ACE400_ShortTest"
+FONT 10, "Calibri"
+BEGIN
+    PUSHBUTTON      "Short Test",IDC_BUTTON_SHORT_TEST,7,7,53,23
+    PUSHBUTTON      "Config",IDC_BUTTON_CONFIG,64,7,53,23
+    PUSHBUTTON      "Exit",IDOK,121,7,53,23
+END
+
+IDD_SHORT_TEST_DIALOG DIALOG DISCARDABLE  5, 45, 532, 423
+STYLE WS_CHILD | WS_BORDER
+FONT 9, "돋움체"
+BEGIN
+    LTEXT           "Square Pin Num: ",IDC_STATIC,19,23,63,8
+    EDITTEXT        IDC_EDIT_SQUARE_PIN_NUM,89,21,40,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Input",IDC_BUTTON_INPUT_SQUARE_PIN_NUM,133,21,41,14
+    LTEXT           "Square N: ",IDC_STATIC,206,25,38,8
+    EDITTEXT        IDC_EDIT_SQUARE_N,250,22,40,14,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    GROUPBOX        "Bad Pin List",IDC_STATIC,319,51,156,98
+    EDITTEXT        IDC_EDIT_BAD_PIN,375,83,32,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Add",IDC_BUTTON_ADD_BAD_PIN,419,85,44,14
+    LISTBOX         IDC_LIST_BAD_PIN,326,107,84,32,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Reset",IDC_BUTTON_RESET_BAD_PIN,418,107,44,14
+    EDITTEXT        IDC_EDIT_SQUARE_MATRIX,17,45,289,111,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_MEAS_OUTPUT,17,204,495,204,ES_MULTILINE | 
+                    ES_READONLY | WS_VSCROLL | WS_HSCROLL
+    PUSHBUTTON      "Measure",IDC_BUTTON_MEASURE,19,173,50,20
+    LTEXT           "BadPin No:",IDC_STATIC,328,85,41,8
+    CONTROL         "4 Under Linear Check",IDC_CHECK1,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,211,177,96,10
+    CONTROL         "Exclude VC from LineCheck",IDC_CHECK_EXCLUDE_VC,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,345,175,116,10
+END
+
+IDD_CONFIG_DIALOG DIALOGEX 5, 65, 425, 186
+STYLE WS_CHILD
+FONT 10, "Calibri", 0, 0, 0x1
+BEGIN
+    CONTROL         "Basic",IDC_CHECK_PRT_BASIC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,17,34,40,18
+    GROUPBOX        "Log Print Option",IDC_STATIC,7,12,394,87
+    CONTROL         "Level 1",IDC_CHECK_PRT_LEVEL1,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,66,34,40,18
+    CONTROL         "Level 2",IDC_CHECK_PRT_Level2,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,120,34,40,18
+    CONTROL         "Level 3",IDC_CHECK_PRT_LEVEL3,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,175,34,40,18
+    CONTROL         "Device (D96)",IDC_CHECK_PRT_DEVICE,"Button",
+                    BS_AUTOCHECKBOX | BS_PUSHLIKE | WS_TABSTOP,224,34,44,18
+    LTEXT           "printState",IDC_STATIC,19,70,32,14
+    CTEXT           "0",IDC_STATIC_PRINT_STATE,67,66,63,16,SS_CENTERIMAGE,
+                    WS_EX_CLIENTEDGE
+    CONTROL         "Device D64",IDC_CHECK_PRT_DEV_D64,"Button",
+                    BS_AUTOCHECKBOX | BS_PUSHLIKE | WS_TABSTOP,275,34,40,18
+    LTEXT           "used Memory",IDC_STATIC,21,117,32,22
+    CTEXT           "0",IDC_STATIC_USED_MEM,69,117,63,16,SS_CENTERIMAGE,
+                    WS_EX_CLIENTEDGE
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041204b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "ACE400_ShortTest MFC 응용 프로그램\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "ACE400_ShortTest\0"
+            VALUE "LegalCopyright", "Copyright (C) 2018\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "ACE400_ShortTest.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "ACE400_ShortTest 응용 프로그램\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x412, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_MAIN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 459
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 393
+    END
+
+    IDD_SHORT_TEST_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 525
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 416
+    END
+
+    IDD_CONFIG_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 418
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+        HORZGUIDE, 12
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "ACE400_ShortTest 정보(&A)..."
+END
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE 18, 1
+#pragma code_page(949)
+#endif //_WIN32
+#include "res\ACE400_ShortTest.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.kor\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

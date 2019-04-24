@@ -1,0 +1,840 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+ACE400_4WDataDir	.\\Globals.h	/^	CString ACE400_4WDataDir;			\/\/ ACE400의 4W data Dir ("D:\\\\log4w");$/;"	m	struct:sFILE_DATA	typeref:typename:CString
+AFX_ACE400_ShortTestDLG_H__A60D6315_99C4_46C0_A323_42C7B357B0A2__INCLUDED_	.\\ACE400MainDlg.h	/^#define AFX_ACE400_ShortTestDLG_H__A60D6315_99C4_46C0_A323_42C7B357B0A2__INCLUDED_$/;"	d
+AFX_ACE400_ShortTest_H__CB3F7139_0C6D_46B6_A240_563945A8EA0D__INCLUDED_	.\\ACE400_ShortTest.h	/^#define AFX_ACE400_ShortTest_H__CB3F7139_0C6D_46B6_A240_563945A8EA0D__INCLUDED_$/;"	d
+AFX_CELLRANGE_H__F86EF761_725A_11D1_ABBA_00A0243D1382__INCLUDED_	.\\gridctrl_src\\CellRange.h	/^#define AFX_CELLRANGE_H__F86EF761_725A_11D1_ABBA_00A0243D1382__INCLUDED_$/;"	d
+AFX_CONFIGDIALOG_H__3DE95E71_32E5_4F38_B70B_2B62B3A9707F__INCLUDED_	.\\ConfigDialog.h	/^#define AFX_CONFIGDIALOG_H__3DE95E71_32E5_4F38_B70B_2B62B3A9707F__INCLUDED_$/;"	d
+AFX_ERROR_H__8D3D34FA_3024_4D5F_81B6_D01841D85268__INCLUDED_	.\\Error.h	/^#define AFX_ERROR_H__8D3D34FA_3024_4D5F_81B6_D01841D85268__INCLUDED_$/;"	d
+AFX_GLOBALS_H__FDA16379_4221_4970_8471_B8FBD39D2C1E__INCLUDED_	.\\Globals.h	/^#define AFX_GLOBALS_H__FDA16379_4221_4970_8471_B8FBD39D2C1E__INCLUDED_$/;"	d
+AFX_GRIDCTRL_H__519FA702_722C_11D1_ABBA_00A0243D1382__INCLUDED_	.\\gridctrl_src\\GridCtrl.h	/^#define AFX_GRIDCTRL_H__519FA702_722C_11D1_ABBA_00A0243D1382__INCLUDED_$/;"	d
+AFX_GRIDDROPTARGET_H__5C610981_BD36_11D1_97CD_00A0243D1382__INCLUDED_	.\\gridctrl_src\\GridDropTarget.h	/^#define AFX_GRIDDROPTARGET_H__5C610981_BD36_11D1_97CD_00A0243D1382__INCLUDED_$/;"	d
+AFX_INPLACEEDIT_H__ECD42821_16DF_11D1_992F_895E185F9C72__INCLUDED_	.\\gridctrl_src\\InPlaceEdit.h	/^#define AFX_INPLACEEDIT_H__ECD42821_16DF_11D1_992F_895E185F9C72__INCLUDED_$/;"	d
+AFX_INPLACELIST_H__ECD42822_16DF_11D1_992F_895E185F9C72__INCLUDED_	.\\gridctrl_src\\InPlaceList.h	/^#define AFX_INPLACELIST_H__ECD42822_16DF_11D1_992F_895E185F9C72__INCLUDED_$/;"	d
+AFX_MEMDC_H__CA1D3541_7235_11D1_ABBA_00A0243D1382__INCLUDED_	.\\gridctrl_src\\MemDC.h	/^#define AFX_MEMDC_H__CA1D3541_7235_11D1_ABBA_00A0243D1382__INCLUDED_$/;"	d
+AFX_SHORT_TEST_DIALOG_H__2ECC17B6_A785_4CA6_B46A_85C1648A9469__INCLUDED_	.\\ShortTestDialog.h	/^#define AFX_SHORT_TEST_DIALOG_H__2ECC17B6_A785_4CA6_B46A_85C1648A9469__INCLUDED_$/;"	d
+AFX_STDAFX_H__162EFA7F_2283_401E_A2DD_16AA1B7EE8C3__INCLUDED_	.\\StdAfx.h	/^#define AFX_STDAFX_H__162EFA7F_2283_401E_A2DD_16AA1B7EE8C3__INCLUDED_$/;"	d
+AFX_TITLETIP_H__C7165DA1_187F_11D1_992F_895E185F9C72__INCLUDED_	.\\gridctrl_src\\TitleTip.h	/^#define AFX_TITLETIP_H__C7165DA1_187F_11D1_992F_895E185F9C72__INCLUDED_$/;"	d
+AddVbBad_PinList	.\\ShortTestDialog.cpp	/^int CShortTestDialog::AddVbBad_PinList(short wPin) $/;"	f	class:CShortTestDialog	typeref:typename:int
+AddVcBad_PinList	.\\ShortTestDialog.cpp	/^int CShortTestDialog::AddVcBad_PinList(short wPin) $/;"	f	class:CShortTestDialog	typeref:typename:int
+AutoSize	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::AutoSize()$/;"	f	class:CGridCtrl	typeref:typename:void
+AutoSizeColumn	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::AutoSizeColumn(int nCol)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+AutoSizeColumns	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::AutoSizeColumns()$/;"	f	class:CGridCtrl	typeref:typename:void
+AutoSizeRow	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::AutoSizeRow(int nRow)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+AutoSizeRows	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::AutoSizeRows()$/;"	f	class:CGridCtrl	typeref:typename:void
+BEGIN_MESSAGE_MAP	.\\ACE400MainDlg.cpp	/^BEGIN_MESSAGE_MAP(CACE400MainDlg, CDialog)$/;"	f
+BEGIN_MESSAGE_MAP	.\\ACE400MainDlg.cpp	/^BEGIN_MESSAGE_MAP(CAboutDlg, CDialog)$/;"	f
+BEGIN_MESSAGE_MAP	.\\ACE400_ShortTest.cpp	/^BEGIN_MESSAGE_MAP(CACE400_ShortTestApp, CWinApp)$/;"	f
+BEGIN_MESSAGE_MAP	.\\ConfigDialog.cpp	/^BEGIN_MESSAGE_MAP(CConfigDialog, CDialog)$/;"	f
+BEGIN_MESSAGE_MAP	.\\ShortTestDialog.cpp	/^BEGIN_MESSAGE_MAP(CShortTestDialog, CDialog)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\GridCtrl.cpp	/^BEGIN_MESSAGE_MAP(CGridCtrl, CWnd)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\GridDropTarget.cpp	/^BEGIN_MESSAGE_MAP(CGridDropTarget, COleDropTarget)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\InPlaceEdit.cpp	/^BEGIN_MESSAGE_MAP(CInPlaceEdit, CEdit)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\InPlaceList.cpp	/^BEGIN_MESSAGE_MAP(CComboEdit, CEdit)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\InPlaceList.cpp	/^BEGIN_MESSAGE_MAP(CInPlaceList, CComboBox)$/;"	f
+BEGIN_MESSAGE_MAP	.\\gridctrl_src\\TitleTip.cpp	/^BEGIN_MESSAGE_MAP(CTitleTip, CWnd)$/;"	f
+BOTTOM_MARGIN	.\\gridctrl_src\\GridCtrl.cpp	/^#define BOTTOM_MARGIN /;"	d	file:
+BSearch_VbCheck	.\\ShortTestDialog.cpp	/^void CShortTestDialog::BSearch_VbCheck(CString &rOut, int vbFirst, int vbLast, int vcFirst, int /;"	f	class:CShortTestDialog	typeref:typename:void
+BSearch_VcCheck	.\\ShortTestDialog.cpp	/^void CShortTestDialog::BSearch_VcCheck(CString &rOut, int vbFirst, int vbLast, int vcFirst, int /;"	f	class:CShortTestDialog	typeref:typename:void
+CACE400MainDlg	.\\ACE400MainDlg.h	/^class CACE400MainDlg : public CDialog$/;"	c
+CACE400_ShortTestApp	.\\ACE400_ShortTest.h	/^class CACE400_ShortTestApp : public CWinApp$/;"	c
+CAL_CHECK_HW	.\\Error.h	/^		CAL_CHECK_HW,$/;"	e	enum:ErrID
+CAL_CHECK_TEST_CONDITION	.\\Error.h	/^		CAL_CHECK_TEST_CONDITION,$/;"	e	enum:ErrID
+CATCH	.\\gridctrl_src\\GridCtrl.h	/^#define CATCH(/;"	d
+CAboutDlg	.\\ACE400MainDlg.cpp	/^CAboutDlg::CAboutDlg() : CDialog(CAboutDlg::IDD)$/;"	f	class:CAboutDlg
+CAboutDlg	.\\ACE400MainDlg.cpp	/^class CAboutDlg : public CDialog$/;"	c	file:
+CCellID	.\\gridctrl_src\\CellRange.h	/^    CCellID(int nRow = -1, int nCol = -1) : row(nRow), col(nCol) {}$/;"	f	class:CCellID
+CCellID	.\\gridctrl_src\\CellRange.h	/^class CCellID$/;"	c
+CCellRange	.\\gridctrl_src\\CellRange.h	/^    CCellRange(int nMinRow = -1, int nMinCol = -1, int nMaxRow = -1, int nMaxCol = -1)$/;"	f	class:CCellRange
+CCellRange	.\\gridctrl_src\\CellRange.h	/^class CCellRange$/;"	c
+CComboEdit	.\\gridctrl_src\\InPlaceList.cpp	/^CComboEdit::CComboEdit()$/;"	f	class:CComboEdit
+CComboEdit	.\\gridctrl_src\\InPlaceList.h	/^class CComboEdit : public CEdit$/;"	c
+CConfigDialog	.\\ConfigDialog.cpp	/^CConfigDialog::CConfigDialog(CWnd* pParent \/*=NULL*\/)$/;"	f	class:CConfigDialog
+CConfigDialog	.\\ConfigDialog.h	/^class CConfigDialog : public CDialog$/;"	c
+CError	.\\Error.cpp	/^CError::CError()$/;"	f	class:CError
+CError	.\\Error.h	/^class CError  $/;"	c
+CGlobals	.\\Globals.cpp	/^CGlobals::CGlobals()$/;"	f	class:CGlobals
+CGlobals	.\\Globals.h	/^class CGlobals  $/;"	c
+CGridCell	.\\gridctrl_src\\GridCtrl.h	/^    CGridCell() $/;"	f	class:CGridCell
+CGridCell	.\\gridctrl_src\\GridCtrl.h	/^class CGridCell : public CObject$/;"	c
+CGridCtrl	.\\gridctrl_src\\GridCtrl.cpp	/^CGridCtrl::CGridCtrl(int nRows, int nCols, int nFixedRows, int nFixedCols)$/;"	f	class:CGridCtrl
+CGridCtrl	.\\gridctrl_src\\GridCtrl.h	/^class CGridCtrl : public CWnd$/;"	c
+CGridDropTarget	.\\gridctrl_src\\GridDropTarget.cpp	/^CGridDropTarget::CGridDropTarget()$/;"	f	class:CGridDropTarget
+CGridDropTarget	.\\gridctrl_src\\GridDropTarget.h	/^class CGridDropTarget : public COleDropTarget$/;"	c
+CInPlaceEdit	.\\gridctrl_src\\InPlaceEdit.cpp	/^CInPlaceEdit::CInPlaceEdit(CWnd* pParent, CRect& rect, DWORD dwStyle, UINT nID,$/;"	f	class:CInPlaceEdit
+CInPlaceEdit	.\\gridctrl_src\\InPlaceEdit.h	/^class CInPlaceEdit : public CEdit$/;"	c
+CInPlaceList	.\\gridctrl_src\\InPlaceList.cpp	/^CInPlaceList::CInPlaceList(CWnd* pParent, CRect& rect, DWORD dwStyle, UINT nID,$/;"	f	class:CInPlaceList
+CInPlaceList	.\\gridctrl_src\\InPlaceList.h	/^class CInPlaceList : public CComboBox$/;"	c
+CMemDC	.\\gridctrl_src\\MemDC.h	/^    CMemDC(CDC* pDC) : CDC()$/;"	f	class:CMemDC
+CMemDC	.\\gridctrl_src\\MemDC.h	/^class CMemDC : public CDC$/;"	c
+CPinList	.\\ShortTestDialog.h	/^	CPinList()	\/\/ 생성자$/;"	f	class:CPinList
+CPinList	.\\ShortTestDialog.h	/^class	CPinList$/;"	c
+CShortTestDialog	.\\ShortTestDialog.cpp	/^CShortTestDialog::CShortTestDialog(CWnd* pParent \/*=NULL*\/)$/;"	f	class:CShortTestDialog
+CShortTestDialog	.\\ShortTestDialog.h	/^class CShortTestDialog : public CDialog$/;"	c
+CTitleTip	.\\gridctrl_src\\TitleTip.cpp	/^CTitleTip::CTitleTip()$/;"	f	class:CTitleTip
+CTitleTip	.\\gridctrl_src\\TitleTip.h	/^class CTitleTip : public CWnd$/;"	c
+CheckShort	.\\ShortTestDialog.cpp	/^int CShortTestDialog::CheckShort(int vbFirst, int vbLast, int vcFirst, int vcLast) $/;"	f	class:CShortTestDialog	typeref:typename:int
+ColumnLineSearch	.\\ShortTestDialog.cpp	/^void CShortTestDialog::ColumnLineSearch(CString& rOut, int vcCol) $/;"	f	class:CShortTestDialog	typeref:typename:void
+CopyTextFromGrid	.\\gridctrl_src\\GridCtrl.cpp	/^COleDataSource* CGridCtrl::CopyTextFromGrid()$/;"	f	class:CGridCtrl	typeref:typename:COleDataSource *
+Count	.\\gridctrl_src\\CellRange.h	/^    int  Count() { return (m_nMaxRow - m_nMinRow + 1) * (m_nMaxCol - m_nMinCol + 1); }$/;"	f	class:CCellRange	typeref:typename:int
+Create	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::Create(const RECT& rect, CWnd* pParentWnd, UINT nID, DWORD dwStyle)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+CreateCell	.\\gridctrl_src\\GridCtrl.cpp	/^CGridCell* CGridCtrl::CreateCell(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:CGridCell *
+CreateDragImage	.\\gridctrl_src\\GridCtrl.cpp	/^CImageList* CGridCtrl::CreateDragImage(CPoint *pHotSpot)$/;"	f	class:CGridCtrl	typeref:typename:CImageList *
+CreateInPlaceEditControl	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::CreateInPlaceEditControl(CRect& rect, DWORD dwStyle, UINT nID,$/;"	f	class:CGridCtrl	typeref:typename:void
+CutSelectedText	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::CutSelectedText()$/;"	f	class:CGridCtrl	typeref:typename:void
+DEVICE	.\\Error.h	/^	DEVICE=1000,$/;"	e	enum:ErrID
+DIO_EXIT_ERR	.\\Error.h	/^			DIO_EXIT_ERR,$/;"	e	enum:ErrID
+DIO_INIT_ERR	.\\Error.h	/^			DIO_INIT_ERR,$/;"	e	enum:ErrID
+DataDir	.\\Globals.h	/^	CString DataDir;					$/;"	m	struct:sFILE_DATA	typeref:typename:CString
+Delay	.\\Globals.cpp	/^void Delay(UINT delaytime, UINT unit)$/;"	f	typeref:typename:void
+DeleteAllItems	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DeleteAllItems()$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+DeleteColumn	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DeleteColumn(int nColumn)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+DeleteNonFixedRows	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DeleteNonFixedRows()$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+DeleteRow	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DeleteRow(int nRow)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+DoCheck_XDir	.\\ShortTestDialog.cpp	/^void CShortTestDialog::DoCheck_XDir(CString &rOut) $/;"	f	class:CShortTestDialog	typeref:typename:void
+DoCheck_YDir	.\\ShortTestDialog.cpp	/^void CShortTestDialog::DoCheck_YDir(CString &rOut) $/;"	f	class:CShortTestDialog	typeref:typename:void
+DoDataExchange	.\\ACE400MainDlg.cpp	/^void CACE400MainDlg::DoDataExchange(CDataExchange* pDX)$/;"	f	class:CACE400MainDlg	typeref:typename:void
+DoDataExchange	.\\ACE400MainDlg.cpp	/^void CAboutDlg::DoDataExchange(CDataExchange* pDX)$/;"	f	class:CAboutDlg	typeref:typename:void
+DoDataExchange	.\\ConfigDialog.cpp	/^void CConfigDialog::DoDataExchange(CDataExchange* pDX)$/;"	f	class:CConfigDialog	typeref:typename:void
+DoDataExchange	.\\ShortTestDialog.cpp	/^void CShortTestDialog::DoDataExchange(CDataExchange* pDX)$/;"	f	class:CShortTestDialog	typeref:typename:void
+DoEvents	.\\Globals.cpp	/^void DoEvents(DWORD dwMilliseconds)$/;"	f	typeref:typename:void
+DrawCell	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DrawCell(CDC* pDC, int nRow, int nCol, CRect rect, BOOL bEraseBk)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+DrawFixedCell	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::DrawFixedCell(CDC* pDC, int nRow, int nCol, CRect rect, BOOL bEraseBk)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+END_CATCH	.\\gridctrl_src\\GridCtrl.h	/^#define END_CATCH$/;"	d
+ERR	.\\Error.cpp	/^CError ERR;$/;"	v	typeref:typename:CError
+ERRMSG_TABLE_LEN	.\\Error.h	/^#define ERRMSG_TABLE_LEN /;"	d
+ESTOP	.\\Error.h	/^	ESTOP=10,$/;"	e	enum:ErrID
+EmptyCell	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::EmptyCell(CGridCell* pCell, int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:void
+EnableDragAndDrop	.\\gridctrl_src\\GridCtrl.h	/^    void EnableDragAndDrop(BOOL bAllow = TRUE)    { m_bAllowDragAndDrop = bAllow;     }$/;"	f	class:CGridCtrl	typeref:typename:void
+EnableSelection	.\\gridctrl_src\\GridCtrl.h	/^    void EnableSelection(BOOL bEnable = TRUE)     { ResetSelectedRange(); m_bEnableSelection = b/;"	f	class:CGridCtrl	typeref:typename:void
+EnableTitleTips	.\\gridctrl_src\\GridCtrl.h	/^    void EnableTitleTips(BOOL bEnable = TRUE)     { m_bTitleTips = bEnable;           }$/;"	f	class:CGridCtrl	typeref:typename:void
+EndEdit	.\\gridctrl_src\\InPlaceEdit.cpp	/^void CInPlaceEdit::EndEdit()$/;"	f	class:CInPlaceEdit	typeref:typename:void
+EndEdit	.\\gridctrl_src\\InPlaceList.cpp	/^void CInPlaceList::EndEdit()$/;"	f	class:CInPlaceList	typeref:typename:void
+EnsureVisible	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::EnsureVisible(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:void
+EnsureVisible	.\\gridctrl_src\\GridCtrl.h	/^    void EnsureVisible(CCellID &cell)       { EnsureVisible(cell.row, cell.col); }$/;"	f	class:CGridCtrl	typeref:typename:void
+EraseBkgnd	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::EraseBkgnd(CDC* pDC) $/;"	f	class:CGridCtrl	typeref:typename:void
+ErrID	.\\Error.h	/^enum ErrID {$/;"	g
+ErrMsg	.\\Error.cpp	/^int ErrMsg(int nMboxType, BOOL bTraceOn)$/;"	f	typeref:typename:int
+ErrMsgTable	.\\Error.h	/^static sErrMsg ErrMsgTable[] = $/;"	v	typeref:typename:sErrMsg[]
+ExpandColumnsToFit	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::ExpandColumnsToFit()$/;"	f	class:CGridCtrl	typeref:typename:void
+ExpandRowsToFit	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::ExpandRowsToFit()$/;"	f	class:CGridCtrl	typeref:typename:void
+ExpandToFit	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::ExpandToFit()$/;"	f	class:CGridCtrl	typeref:typename:void
+FLAG	.\\Error.h	/^	FLAG=500,$/;"	e	enum:ErrID
+FLAG_EVEN_SOURCE_LEAK	.\\Error.h	/^		FLAG_EVEN_SOURCE_LEAK,$/;"	e	enum:ErrID
+FLAG_FILE_CANNOT_OPEN	.\\Error.h	/^		FLAG_FILE_CANNOT_OPEN,$/;"	e	enum:ErrID
+FLAG_FILE_CHECK_SUM	.\\Error.h	/^		FLAG_FILE_CHECK_SUM,$/;"	e	enum:ErrID
+FLAG_FILE_NOT_FOUND	.\\Error.h	/^		FLAG_FILE_NOT_FOUND,$/;"	e	enum:ErrID
+FLAG_FILE_UNPROPER_PARAMETER	.\\Error.h	/^		FLAG_FILE_UNPROPER_PARAMETER,$/;"	e	enum:ErrID
+FLAG_ODD_SOURCE_LEAK	.\\Error.h	/^		FLAG_ODD_SOURCE_LEAK,$/;"	e	enum:ErrID
+FLAG_SINK_CANNOT_OFF	.\\Error.h	/^		FLAG_SINK_CANNOT_OFF,$/;"	e	enum:ErrID
+FLAG_SINK_LEAK	.\\Error.h	/^		FLAG_SINK_LEAK,$/;"	e	enum:ErrID
+FLAG_SOURCE_CANNOT_OFF	.\\Error.h	/^		FLAG_SOURCE_CANNOT_OFF,$/;"	e	enum:ErrID
+FLAG_SOURCE_LEAK	.\\Error.h	/^		FLAG_SOURCE_LEAK,$/;"	e	enum:ErrID
+FLAG_SOURCE_OR_SINK_CANNOT_ON	.\\Error.h	/^		FLAG_SOURCE_OR_SINK_CANNOT_ON,$/;"	e	enum:ErrID
+FOOTER_HEIGHT	.\\gridctrl_src\\GridCtrl.cpp	/^#define FOOTER_HEIGHT /;"	d	file:
+FUNC	.\\Globals.h	/^#define FUNC(/;"	d
+FileExists	.\\Globals.cpp	/^BOOL FileExists(CString strFilePath)$/;"	f	typeref:typename:BOOL
+GAP	.\\gridctrl_src\\GridCtrl.cpp	/^#define GAP /;"	d	file:
+GRIDCONTROL_NO_CLIPBOARD	.\\gridctrl_src\\GridCtrl.h	/^#define GRIDCONTROL_NO_CLIPBOARD /;"	d
+GRIDCONTROL_NO_DRAGDROP	.\\gridctrl_src\\GridCtrl.h	/^#define GRIDCONTROL_NO_DRAGDROP /;"	d
+GRIDCONTROL_NO_PRINTING	.\\gridctrl_src\\GridCtrl.h	/^#define GRIDCONTROL_NO_PRINTING /;"	d
+GRIDCONTROL_NO_TITLETIPS	.\\gridctrl_src\\GridCtrl.h	/^#define GRIDCONTROL_NO_TITLETIPS /;"	d
+GRIDCTRL_CLASSNAME	.\\gridctrl_src\\GridCtrl.h	/^#define GRIDCTRL_CLASSNAME /;"	d
+GRID_ROW	.\\gridctrl_src\\GridCtrl.h	/^typedef CTypedPtrArray<CObArray, CGridCell*> GRID_ROW;$/;"	t	typeref:typename:CTypedPtrArray<CObArray,CGridCell * >
+GVHT_ABOVE	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_ABOVE /;"	d
+GVHT_BELOW	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_BELOW /;"	d
+GVHT_COLHDR	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_COLHDR /;"	d
+GVHT_COLSIZER	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_COLSIZER /;"	d
+GVHT_DATA	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_DATA /;"	d
+GVHT_LEFT	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_LEFT /;"	d
+GVHT_RIGHT	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_RIGHT /;"	d
+GVHT_ROWHDR	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_ROWHDR /;"	d
+GVHT_ROWSIZER	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_ROWSIZER /;"	d
+GVHT_TOPLEFT	.\\gridctrl_src\\GridCtrl.h	/^#define GVHT_TOPLEFT /;"	d
+GVIF_BKCLR	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_BKCLR /;"	d
+GVIF_FGCLR	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_FGCLR /;"	d
+GVIF_FONT	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_FONT /;"	d
+GVIF_FORMAT	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_FORMAT /;"	d
+GVIF_IMAGE	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_IMAGE /;"	d
+GVIF_PARAM	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_PARAM /;"	d
+GVIF_STATE	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_STATE /;"	d
+GVIF_TEXT	.\\gridctrl_src\\GridCtrl.h	/^#define GVIF_TEXT /;"	d
+GVIS_DROPHILITED	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_DROPHILITED /;"	d
+GVIS_FIXED	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_FIXED /;"	d
+GVIS_FOCUSED	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_FOCUSED /;"	d
+GVIS_MODIFIED	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_MODIFIED /;"	d
+GVIS_READONLY	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_READONLY /;"	d
+GVIS_SELECTED	.\\gridctrl_src\\GridCtrl.h	/^#define GVIS_SELECTED /;"	d
+GVL_BOTH	.\\gridctrl_src\\GridCtrl.h	/^#define GVL_BOTH /;"	d
+GVL_HORZ	.\\gridctrl_src\\GridCtrl.h	/^#define GVL_HORZ /;"	d
+GVL_NONE	.\\gridctrl_src\\GridCtrl.h	/^#define GVL_NONE /;"	d
+GVL_VERT	.\\gridctrl_src\\GridCtrl.h	/^#define GVL_VERT /;"	d
+GVNI_ABOVE	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_ABOVE /;"	d
+GVNI_ALL	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_ALL /;"	d
+GVNI_AREA	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_AREA /;"	d
+GVNI_BELOW	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_BELOW /;"	d
+GVNI_DROPHILITED	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_DROPHILITED /;"	d
+GVNI_FIXED	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_FIXED /;"	d
+GVNI_FOCUSED	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_FOCUSED /;"	d
+GVNI_MODIFIED	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_MODIFIED /;"	d
+GVNI_READONLY	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_READONLY /;"	d
+GVNI_SELECTED	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_SELECTED /;"	d
+GVNI_TOLEFT	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_TOLEFT /;"	d
+GVNI_TORIGHT	.\\gridctrl_src\\GridCtrl.h	/^#define GVNI_TORIGHT /;"	d
+GVN_BEGINDRAG	.\\gridctrl_src\\GridCtrl.h	/^#define	GVN_BEGINDRAG /;"	d
+GVN_BEGINLABELEDIT	.\\gridctrl_src\\GridCtrl.h	/^#define	GVN_BEGINLABELEDIT /;"	d
+GVN_BEGINRDRAG	.\\gridctrl_src\\GridCtrl.h	/^#define	GVN_BEGINRDRAG /;"	d
+GVN_COLUMNCLICK	.\\gridctrl_src\\GridCtrl.h	/^#define GVN_COLUMNCLICK /;"	d
+GVN_DELETEITEM	.\\gridctrl_src\\GridCtrl.h	/^#define	GVN_DELETEITEM /;"	d
+GVN_ENDLABELEDIT	.\\gridctrl_src\\GridCtrl.h	/^#define GVN_ENDLABELEDIT /;"	d
+GVN_SELCHANGED	.\\gridctrl_src\\GridCtrl.h	/^#define GVN_SELCHANGED /;"	d
+GVN_SELCHANGING	.\\gridctrl_src\\GridCtrl.h	/^#define GVN_SELCHANGING /;"	d
+GV_DISPINFO	.\\gridctrl_src\\GridCtrl.h	/^} GV_DISPINFO;$/;"	t	typeref:struct:tagGV_DISPINFO
+GV_ITEM	.\\gridctrl_src\\GridCtrl.h	/^} GV_ITEM; $/;"	t	typeref:struct:_GV_ITEM
+Get	.\\Error.h	/^	int		Get() $/;"	f	class:CError	typeref:typename:int
+GetBkColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetBkColor() const                   { return m_crBkColour;              }$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetCell	.\\gridctrl_src\\GridCtrl.h	/^inline CGridCell* CGridCtrl::GetCell(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:CGridCell *
+GetCellExtent	.\\gridctrl_src\\GridCtrl.cpp	/^CSize CGridCtrl::GetCellExtent(int nRow, int nCol, CDC* pDC)$/;"	f	class:CGridCtrl	typeref:typename:CSize
+GetCellFromPt	.\\gridctrl_src\\GridCtrl.cpp	/^CCellID CGridCtrl::GetCellFromPt(CPoint point, BOOL bAllowFixedCellCheck \/*=TRUE*\/) const$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+GetCellOrigin	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetCellOrigin(const CCellID& cell, LPPOINT p) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetCellOrigin	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetCellOrigin(int nRow, int nCol, LPPOINT p) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetCellRange	.\\gridctrl_src\\GridCtrl.cpp	/^CCellRange CGridCtrl::GetCellRange() const$/;"	f	class:CGridCtrl	typeref:typename:CCellRange
+GetCellRangeRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetCellRangeRect(const CCellRange& cellRange, LPRECT lpRect) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetCellRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetCellRect(const CCellID& cell, LPRECT pRect) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetCellRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetCellRect(int nRow, int nCol, LPRECT pRect) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetColSpan	.\\gridctrl_src\\CellRange.h	/^    int GetColSpan() const {return m_nMaxCol - m_nMinCol + 1;}$/;"	f	class:CCellRange	typeref:typename:int
+GetColumnCount	.\\gridctrl_src\\GridCtrl.h	/^    int  GetColumnCount() const                 { return m_nCols; }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetColumnResize	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetColumnResize() const                  { return m_bAllowColumnResize;      }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetColumnWidth	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetColumnWidth(int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:int
+GetDateAndTime	.\\Globals.cpp	/^void GetDateAndTime(char *datetime)$/;"	f	typeref:typename:void
+GetDoubleBuffering	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetDoubleBuffering() const               { return m_bDoubleBuffer;           }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetDragAndDrop	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetDragAndDrop() const                   { return m_bAllowDragAndDrop;       }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetFixedBkColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetFixedBkColor() const              { return m_crFixedBkColour;         } $/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetFixedColumnCount	.\\gridctrl_src\\GridCtrl.h	/^    int  GetFixedColumnCount() const            { return m_nFixedCols; }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetFixedColumnWidth	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetFixedColumnWidth() const$/;"	f	class:CGridCtrl	typeref:typename:int
+GetFixedRowCount	.\\gridctrl_src\\GridCtrl.h	/^    int  GetFixedRowCount() const               { return m_nFixedRows; }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetFixedRowHeight	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetFixedRowHeight() const$/;"	f	class:CGridCtrl	typeref:typename:int
+GetFixedTextColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetFixedTextColor() const            { return m_crFixedTextColour;       }$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetFocusCell	.\\gridctrl_src\\GridCtrl.h	/^    CCellID GetFocusCell() const                  { return m_idCurrentCell;           }$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+GetGridColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetGridColor() const                 { return m_crGridColour;            }$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetGridLines	.\\gridctrl_src\\GridCtrl.h	/^    int  GetGridLines() const                     { return m_nGridLines;              }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetHandleTabKey	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetHandleTabKey() const                  { return m_bHandleTabKey;           }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetHeaderSort	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetHeaderSort() const                    { return m_bSortOnClick;            }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetImageList	.\\gridctrl_src\\GridCtrl.h	/^    CImageList* GetImageList() const              { return m_pImageList;              }$/;"	f	class:CGridCtrl	typeref:typename:CImageList *
+GetItem	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetItem(GV_ITEM* pItem)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetItemBkColour	.\\gridctrl_src\\GridCtrl.cpp	/^COLORREF CGridCtrl::GetItemBkColour(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetItemData	.\\gridctrl_src\\GridCtrl.cpp	/^LPARAM CGridCtrl::GetItemData(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:LPARAM
+GetItemFgColour	.\\gridctrl_src\\GridCtrl.cpp	/^COLORREF CGridCtrl::GetItemFgColour(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetItemFont	.\\gridctrl_src\\GridCtrl.cpp	/^LOGFONT* CGridCtrl::GetItemFont(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:LOGFONT *
+GetItemFormat	.\\gridctrl_src\\GridCtrl.cpp	/^UINT CGridCtrl::GetItemFormat(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:UINT
+GetItemImage	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetItemImage(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:int
+GetItemState	.\\gridctrl_src\\GridCtrl.cpp	/^UINT CGridCtrl::GetItemState(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:UINT
+GetItemText	.\\gridctrl_src\\GridCtrl.cpp	/^CString CGridCtrl::GetItemText(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:CString
+GetListMode	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetListMode() const                      { return m_bListMode;               }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetMaxCol	.\\gridctrl_src\\CellRange.h	/^    int GetMaxCol() const {return m_nMaxCol;}$/;"	f	class:CCellRange	typeref:typename:int
+GetMaxRow	.\\gridctrl_src\\CellRange.h	/^    int GetMaxRow() const {return m_nMaxRow;}$/;"	f	class:CCellRange	typeref:typename:int
+GetMicroSecond	.\\Globals.cpp	/^__int64 GetMicroSecond()  \/\/sylee$/;"	f	typeref:typename:__int64
+GetMinCol	.\\gridctrl_src\\CellRange.h	/^    int GetMinCol() const {return m_nMinCol;}$/;"	f	class:CCellRange	typeref:typename:int
+GetMinRow	.\\gridctrl_src\\CellRange.h	/^    int GetMinRow() const {return m_nMinRow;}$/;"	f	class:CCellRange	typeref:typename:int
+GetModified	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetModified(int nRow \/*=-1*\/, int nCol \/*=-1*\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetMouseMode	.\\gridctrl_src\\GridCtrl.h	/^    int  GetMouseMode() const    { return m_MouseMode; }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetMouseScrollLines	.\\gridctrl_src\\GridCtrl.cpp	/^UINT GetMouseScrollLines()$/;"	f	typeref:typename:UINT
+GetMsg	.\\Error.cpp	/^BOOL CError::GetMsg(int error_no, CString &title, CString &state, CString &sol)$/;"	f	class:CError	typeref:typename:BOOL
+GetNextItem	.\\gridctrl_src\\GridCtrl.cpp	/^CCellID CGridCtrl::GetNextItem(CCellID& cell, int nFlags) const$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+GetProcessWorkingSetSize	.\\Globals.cpp	/^SIZE_T GetProcessWorkingSetSize() $/;"	f	typeref:typename:SIZE_T
+GetRowCount	.\\gridctrl_src\\GridCtrl.h	/^    int  GetRowCount() const                    { return m_nRows; }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetRowHeight	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetRowHeight(int nRow) const$/;"	f	class:CGridCtrl	typeref:typename:int
+GetRowResize	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetRowResize() const                     { return m_bAllowRowResize;         }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetRowSpan	.\\gridctrl_src\\CellRange.h	/^    int GetRowSpan() const {return m_nMaxRow - m_nMinRow + 1;}$/;"	f	class:CCellRange	typeref:typename:int
+GetScrollPos32	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::GetScrollPos32(int nBar, BOOL bGetTrackPos \/* = FALSE *\/)$/;"	f	class:CGridCtrl	typeref:typename:int
+GetSelectedCellRange	.\\gridctrl_src\\GridCtrl.cpp	/^CCellRange CGridCtrl::GetSelectedCellRange() const$/;"	f	class:CGridCtrl	typeref:typename:CCellRange
+GetSelectedCount	.\\gridctrl_src\\GridCtrl.h	/^    int GetSelectedCount() const                  { return m_SelectedCellMap.GetCount(); }$/;"	f	class:CGridCtrl	typeref:typename:int
+GetSingleRowSelection	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetSingleRowSelection()                  { return m_bSingleRowSelection;     }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetTextBkColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetTextBkColor() const               { return m_crTextBkColour;          }$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetTextColor	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF GetTextColor() const                 { return m_crTextColour;            }$/;"	f	class:CGridCtrl	typeref:typename:COLORREF
+GetTextExtent	.\\gridctrl_src\\GridCtrl.cpp	/^CSize CGridCtrl::GetTextExtent(LPCTSTR str, BOOL bUseSelectedFont \/* = TRUE *\/)$/;"	f	class:CGridCtrl	typeref:typename:CSize
+GetTextRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetTextRect(const CCellID& cell, LPRECT pRect)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetTextRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::GetTextRect(int nRow, int nCol, LPRECT pRect)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetTitleTips	.\\gridctrl_src\\GridCtrl.h	/^    BOOL GetTitleTips()                           { return m_bTitleTips;              }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+GetTopLeft	.\\gridctrl_src\\CellRange.h	/^inline CCellID CCellRange::GetTopLeft() const$/;"	f	class:CCellRange	typeref:typename:CCellID
+GetTopleftNonFixedCell	.\\gridctrl_src\\GridCtrl.cpp	/^CCellID CGridCtrl::GetTopleftNonFixedCell() const$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+GetUnobstructedNonFixedCellRange	.\\gridctrl_src\\GridCtrl.cpp	/^CCellRange CGridCtrl::GetUnobstructedNonFixedCellRange() const$/;"	f	class:CGridCtrl	typeref:typename:CCellRange
+GetVirtualHeight	.\\gridctrl_src\\GridCtrl.cpp	/^long CGridCtrl::GetVirtualHeight() const$/;"	f	class:CGridCtrl	typeref:typename:long
+GetVirtualWidth	.\\gridctrl_src\\GridCtrl.cpp	/^long CGridCtrl::GetVirtualWidth() const$/;"	f	class:CGridCtrl	typeref:typename:long
+GetVisibleNonFixedCellRange	.\\gridctrl_src\\GridCtrl.cpp	/^CCellRange CGridCtrl::GetVisibleNonFixedCellRange(LPRECT pRect \/*=NULL*\/) const$/;"	f	class:CGridCtrl	typeref:typename:CCellRange
+HEADER_HEIGHT	.\\gridctrl_src\\GridCtrl.cpp	/^#define HEADER_HEIGHT /;"	d	file:
+Hide	.\\gridctrl_src\\TitleTip.cpp	/^void CTitleTip::Hide()$/;"	f	class:CTitleTip	typeref:typename:void
+IDC_BUTTON_ADD_BAD_PIN	.\\resource.h	/^#define IDC_BUTTON_ADD_BAD_PIN /;"	d
+IDC_BUTTON_CONFIG	.\\resource.h	/^#define IDC_BUTTON_CONFIG /;"	d
+IDC_BUTTON_INPUT_SQUARE_PIN_NUM	.\\resource.h	/^#define IDC_BUTTON_INPUT_SQUARE_PIN_NUM /;"	d
+IDC_BUTTON_MEASURE	.\\resource.h	/^#define IDC_BUTTON_MEASURE /;"	d
+IDC_BUTTON_RESET_BAD_PIN	.\\resource.h	/^#define IDC_BUTTON_RESET_BAD_PIN /;"	d
+IDC_BUTTON_SHORT_TEST	.\\resource.h	/^#define IDC_BUTTON_SHORT_TEST /;"	d
+IDC_CHECK1	.\\resource.h	/^#define IDC_CHECK1 /;"	d
+IDC_CHECK_EXCLUDE_VC	.\\resource.h	/^#define IDC_CHECK_EXCLUDE_VC /;"	d
+IDC_CHECK_PRT_BASIC	.\\resource.h	/^#define IDC_CHECK_PRT_BASIC /;"	d
+IDC_CHECK_PRT_DEVICE	.\\resource.h	/^#define IDC_CHECK_PRT_DEVICE /;"	d
+IDC_CHECK_PRT_DEV_D64	.\\resource.h	/^#define IDC_CHECK_PRT_DEV_D64 /;"	d
+IDC_CHECK_PRT_LEVEL1	.\\resource.h	/^#define IDC_CHECK_PRT_LEVEL1 /;"	d
+IDC_CHECK_PRT_LEVEL3	.\\resource.h	/^#define IDC_CHECK_PRT_LEVEL3 /;"	d
+IDC_CHECK_PRT_Level2	.\\resource.h	/^#define IDC_CHECK_PRT_Level2 /;"	d
+IDC_COMBOEDIT	.\\gridctrl_src\\InPlaceList.h	/^#define IDC_COMBOEDIT /;"	d
+IDC_EDIT_BAD_PIN	.\\resource.h	/^#define IDC_EDIT_BAD_PIN /;"	d
+IDC_EDIT_MEAS_OUTPUT	.\\resource.h	/^#define IDC_EDIT_MEAS_OUTPUT /;"	d
+IDC_EDIT_SQUARE_MATRIX	.\\resource.h	/^#define IDC_EDIT_SQUARE_MATRIX /;"	d
+IDC_EDIT_SQUARE_N	.\\resource.h	/^#define IDC_EDIT_SQUARE_N /;"	d
+IDC_EDIT_SQUARE_PIN_NUM	.\\resource.h	/^#define IDC_EDIT_SQUARE_PIN_NUM /;"	d
+IDC_INPLACE_CONTROL	.\\gridctrl_src\\GridCtrl.h	/^#define IDC_INPLACE_CONTROL /;"	d
+IDC_LIST_BAD_PIN	.\\resource.h	/^#define IDC_LIST_BAD_PIN /;"	d
+IDC_STATIC_PRINT_STATE	.\\resource.h	/^#define IDC_STATIC_PRINT_STATE /;"	d
+IDC_STATIC_USED_MEM	.\\resource.h	/^#define IDC_STATIC_USED_MEM /;"	d
+IDD	.\\ACE400MainDlg.cpp	/^	enum { IDD = IDD_ABOUTBOX };$/;"	e	enum:CAboutDlg::__anon86bec5590103	file:
+IDD	.\\ACE400MainDlg.h	/^	enum { IDD = IDD_MAIN_DIALOG };$/;"	e	enum:CACE400MainDlg::__anon747cc43e0103
+IDD	.\\ConfigDialog.h	/^	enum { IDD = IDD_CONFIG_DIALOG };$/;"	e	enum:CConfigDialog::__anon7936154b0103
+IDD	.\\ShortTestDialog.h	/^	enum { IDD = IDD_SHORT_TEST_DIALOG };$/;"	e	enum:CShortTestDialog::__anonc77812a50103
+IDD_ABOUTBOX	.\\ACE400_ShortTest.rc	/^IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55$/;"	d
+IDD_ABOUTBOX	.\\resource.h	/^#define IDD_ABOUTBOX /;"	d
+IDD_ABOUTBOX,	.\\ACE400_ShortTest.rc	/^    IDD_ABOUTBOX, DIALOG$/;"	d
+IDD_CONFIG_DIALOG	.\\ACE400_ShortTest.rc	/^IDD_CONFIG_DIALOG DIALOGEX 5, 65, 425, 186$/;"	d
+IDD_CONFIG_DIALOG	.\\resource.h	/^#define IDD_CONFIG_DIALOG /;"	d
+IDD_CONFIG_DIALOG,	.\\ACE400_ShortTest.rc	/^    IDD_CONFIG_DIALOG, DIALOG$/;"	d
+IDD_MAIN_DIALOG	.\\ACE400_ShortTest.rc	/^IDD_MAIN_DIALOG DIALOGEX 0, 0, 466, 400$/;"	d
+IDD_MAIN_DIALOG	.\\resource.h	/^#define IDD_MAIN_DIALOG /;"	d
+IDD_MAIN_DIALOG,	.\\ACE400_ShortTest.rc	/^    IDD_MAIN_DIALOG, DIALOG$/;"	d
+IDD_SHORT_TEST_DIALOG	.\\ACE400_ShortTest.rc	/^IDD_SHORT_TEST_DIALOG DIALOG DISCARDABLE  5, 45, 532, 423$/;"	d
+IDD_SHORT_TEST_DIALOG	.\\resource.h	/^#define IDD_SHORT_TEST_DIALOG /;"	d
+IDD_SHORT_TEST_DIALOG,	.\\ACE400_ShortTest.rc	/^    IDD_SHORT_TEST_DIALOG, DIALOG$/;"	d
+IDM_ABOUTBOX	.\\resource.h	/^#define IDM_ABOUTBOX /;"	d
+IDR_MAINFRAME	.\\ACE400_ShortTest.rc	/^IDR_MAINFRAME           ICON    DISCARDABLE     "res\\\\ACE400_ShortTest.ico"$/;"	i
+IDR_MAINFRAME	.\\resource.h	/^#define IDR_MAINFRAME /;"	d
+IDS_ABOUTBOX	.\\resource.h	/^#define IDS_ABOUTBOX /;"	d
+IMPLEMENT_DYNCREATE	.\\gridctrl_src\\GridCtrl.cpp	/^IMPLEMENT_DYNCREATE(CGridCtrl, CWnd)$/;"	f
+INVALID_INPUT	.\\Error.h	/^	INVALID_INPUT=601,$/;"	e	enum:ErrID
+INVALID_RETURN	.\\Error.h	/^	INVALID_RETURN=600,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOINPBIT	.\\Error.h	/^			INVALID_RETURN_DIOINPBIT,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOINPBYTE	.\\Error.h	/^			INVALID_RETURN_DIOINPBYTE,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOINP_MBIT	.\\Error.h	/^			INVALID_RETURN_DIOINP_MBIT,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOOUTBIT	.\\Error.h	/^			INVALID_RETURN_DIOOUTBIT,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOOUTBYTE	.\\Error.h	/^			INVALID_RETURN_DIOOUTBYTE,$/;"	e	enum:ErrID
+INVALID_RETURN_DIOOUT_MBIT	.\\Error.h	/^			INVALID_RETURN_DIOOUT_MBIT,$/;"	e	enum:ErrID
+InRange	.\\gridctrl_src\\CellRange.h	/^inline int CCellRange::InRange(const CCellID& cellID) const$/;"	f	class:CCellRange	typeref:typename:int
+InRange	.\\gridctrl_src\\CellRange.h	/^inline int CCellRange::InRange(int row, int col) const$/;"	f	class:CCellRange	typeref:typename:int
+Init	.\\Globals.h	/^	void Init()$/;"	f	struct:sFILE_DATA	typeref:typename:void
+InitInstance	.\\ACE400_ShortTest.cpp	/^BOOL CACE400_ShortTestApp::InitInstance()$/;"	f	class:CACE400_ShortTestApp	typeref:typename:BOOL
+InitMember	.\\ConfigDialog.cpp	/^void CConfigDialog::InitMember()$/;"	f	class:CConfigDialog	typeref:typename:void
+InitMember	.\\ShortTestDialog.cpp	/^BOOL CShortTestDialog::InitMember()$/;"	f	class:CShortTestDialog	typeref:typename:BOOL
+InsertColumn	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::InsertColumn(LPCTSTR strHeading, $/;"	f	class:CGridCtrl	typeref:typename:int
+InsertRow	.\\gridctrl_src\\GridCtrl.cpp	/^int CGridCtrl::InsertRow(LPCTSTR strHeading, int nRow \/* = -1 *\/)$/;"	f	class:CGridCtrl	typeref:typename:int
+Intersect	.\\gridctrl_src\\CellRange.h	/^inline CCellRange CCellRange::Intersect(const CCellRange& rhs) const$/;"	f	class:CCellRange	typeref:typename:CCellRange
+InvalidateCellRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::InvalidateCellRect(const CCellID& cell)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+InvalidateCellRect	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::InvalidateCellRect(const CCellRange& cellRange)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsCTRLpressed	.\\gridctrl_src\\GridCtrl.h	/^#define IsCTRLpressed(/;"	d
+IsCellEditable	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsCellEditable(CCellID &cell) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsCellEditable	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsCellEditable(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsCellFixed	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsCellFixed(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsCellVisible	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsCellVisible(CCellID cell) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsCellVisible	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsCellVisible(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsEditable	.\\gridctrl_src\\GridCtrl.h	/^    BOOL IsEditable() const                       { return m_bEditable;               }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsSHIFTpressed	.\\gridctrl_src\\GridCtrl.h	/^#define IsSHIFTpressed(/;"	d
+IsSelectable	.\\gridctrl_src\\GridCtrl.h	/^    BOOL IsSelectable() const                     { return m_bEnableSelection;        }$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsValid	.\\gridctrl_src\\CellRange.h	/^    int IsValid() const { return (row >= 0 && col >= 0); }$/;"	f	class:CCellID	typeref:typename:int
+IsValid	.\\gridctrl_src\\CellRange.h	/^inline int CCellRange::IsValid() const$/;"	f	class:CCellRange	typeref:typename:int
+IsValid	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsValid(const CCellID& cell) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsValid	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsValid(const CCellRange& range) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+IsValid	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::IsValid(int nRow, int nCol) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+Kohm	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+LEFT_MARGIN	.\\gridctrl_src\\GridCtrl.cpp	/^#define LEFT_MARGIN /;"	d	file:
+LSearch_VbCheck	.\\ShortTestDialog.cpp	/^void CShortTestDialog::LSearch_VbCheck(CString &rOut, int vbFirst, int vbLast, int vcFirst, int /;"	f	class:CShortTestDialog	typeref:typename:void
+LSearch_VcCheck	.\\ShortTestDialog.cpp	/^void CShortTestDialog::LSearch_VcCheck(CString &rOut, int vbFirst, int vbLast, int vcFirst, int /;"	f	class:CShortTestDialog	typeref:typename:void
+Load	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::Load(LPCTSTR filename)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+MAN_ERR_TEST_CONDEITION	.\\Error.h	/^		MAN_ERR_TEST_CONDEITION,$/;"	e	enum:ErrID
+MAX_SQUARE_N	.\\ShortTestDialog.h	/^#define		MAX_SQUARE_N	/;"	d
+MM_TO_UM	.\\Globals.h	/^	MM_TO_UM, UM_TO_MM, SEC_TO_MSEC, MSEC_TO_SEC$/;"	e	enum:UNIT_CONVERT_TYPE
+MOTION	.\\Error.h	/^		MOTION=DEVICE+100,$/;"	e	enum:ErrID
+MOUSE_DRAGGING	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_PREPARE_DRAG, MOUSE_DRAGGING$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_NOTHING	.\\gridctrl_src\\GridCtrl.h	/^    enum eMouseModes { MOUSE_NOTHING, MOUSE_SELECT_ALL, MOUSE_SELECT_COL, MOUSE_SELECT_ROW,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_OVER_COL_DIVIDE	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_OVER_COL_DIVIDE, MOUSE_SIZING_COL,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_OVER_ROW_DIVIDE	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_OVER_ROW_DIVIDE, MOUSE_SIZING_ROW, $/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_PREPARE_DRAG	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_PREPARE_DRAG, MOUSE_DRAGGING$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_PREPARE_EDIT	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_PREPARE_EDIT,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SCROLLING_CELLS	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_SELECT_CELLS, MOUSE_SCROLLING_CELLS,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SELECT_ALL	.\\gridctrl_src\\GridCtrl.h	/^    enum eMouseModes { MOUSE_NOTHING, MOUSE_SELECT_ALL, MOUSE_SELECT_COL, MOUSE_SELECT_ROW,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SELECT_CELLS	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_SELECT_CELLS, MOUSE_SCROLLING_CELLS,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SELECT_COL	.\\gridctrl_src\\GridCtrl.h	/^    enum eMouseModes { MOUSE_NOTHING, MOUSE_SELECT_ALL, MOUSE_SELECT_COL, MOUSE_SELECT_ROW,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SELECT_ROW	.\\gridctrl_src\\GridCtrl.h	/^    enum eMouseModes { MOUSE_NOTHING, MOUSE_SELECT_ALL, MOUSE_SELECT_COL, MOUSE_SELECT_ROW,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SIZING_COL	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_OVER_COL_DIVIDE, MOUSE_SIZING_COL,$/;"	e	enum:CGridCtrl::eMouseModes
+MOUSE_SIZING_ROW	.\\gridctrl_src\\GridCtrl.h	/^                       MOUSE_OVER_ROW_DIVIDE, MOUSE_SIZING_ROW, $/;"	e	enum:CGridCtrl::eMouseModes
+MSEC_TO_SEC	.\\Globals.h	/^	MM_TO_UM, UM_TO_MM, SEC_TO_MSEC, MSEC_TO_SEC$/;"	e	enum:UNIT_CONVERT_TYPE
+Mohm	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+MouseOverColumnResizeArea	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::MouseOverColumnResizeArea(CPoint& point) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+MouseOverRowResizeArea	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::MouseOverRowResizeArea(CPoint& point) const$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+MyGetMemInfo	.\\Globals.cpp	/^PROCESS_MEMORY_COUNTERS MyGetMemInfo()$/;"	f	typeref:typename:PROCESS_MEMORY_COUNTERS
+MyTrace	.\\Globals.cpp	/^void AFX_CDECL MyTrace(PRT_TYPE prtType, LPCTSTR lpszFormat, ...)$/;"	f	typeref:typename:void AFX_CDECL
+NM_GRIDVIEW	.\\gridctrl_src\\GridCtrl.h	/^} NM_GRIDVIEW;$/;"	t	typeref:struct:tagNM_GRIDVIEW
+NO_ERR	.\\Error.h	/^	NO_ERR=0,$/;"	e	enum:ErrID
+OL_I_RANGE_OVER	.\\Error.h	/^		OL_I_RANGE_OVER,$/;"	e	enum:ErrID
+OL_I_RANGE_UNDER	.\\Error.h	/^		OL_I_RANGE_UNDER,$/;"	e	enum:ErrID
+OL_REF_CURRENT_IS_OVER_INPUT_VOLT_N_RGST	.\\Error.h	/^		OL_REF_CURRENT_IS_OVER_INPUT_VOLT_N_RGST,$/;"	e	enum:ErrID
+OT_SETNCHK	.\\Error.h	/^		OT_SETNCHK,$/;"	e	enum:ErrID
+OT_VB_OUTCHECK_ERR	.\\Error.h	/^		OT_VB_OUTCHECK_ERR,$/;"	e	enum:ErrID
+OVERTIME	.\\Error.h	/^	OVERTIME=800,$/;"	e	enum:ErrID
+OnBeginDrag	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnBeginDrag()$/;"	f	class:CGridCtrl	typeref:typename:void
+OnBeginPrinting	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnBeginPrinting(CDC *pDC, CPrintInfo *pInfo)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnButtonAddBadPin	.\\ShortTestDialog.cpp	/^void CShortTestDialog::OnButtonAddBadPin() $/;"	f	class:CShortTestDialog	typeref:typename:void
+OnButtonConfig	.\\ACE400MainDlg.cpp	/^void CACE400MainDlg::OnButtonConfig() $/;"	f	class:CACE400MainDlg	typeref:typename:void
+OnButtonInputSquarePinNum	.\\ShortTestDialog.cpp	/^void CShortTestDialog::OnButtonInputSquarePinNum() $/;"	f	class:CShortTestDialog	typeref:typename:void
+OnButtonMeasureShort	.\\ShortTestDialog.cpp	/^void CShortTestDialog::OnButtonMeasureShort() $/;"	f	class:CShortTestDialog	typeref:typename:void
+OnButtonResetBadPin	.\\ShortTestDialog.cpp	/^void CShortTestDialog::OnButtonResetBadPin() $/;"	f	class:CShortTestDialog	typeref:typename:void
+OnButtonShortTest	.\\ACE400MainDlg.cpp	/^void CACE400MainDlg::OnButtonShortTest() $/;"	f	class:CACE400MainDlg	typeref:typename:void
+OnCHECKPRTLevel2	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCHECKPRTLevel2() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnCaptureChanged	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnCaptureChanged(CWnd *pWnd) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnChar	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnChar(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnChar	.\\gridctrl_src\\InPlaceEdit.cpp	/^void CInPlaceEdit::OnChar(UINT nChar, UINT nRepCnt, UINT nFlags)$/;"	f	class:CInPlaceEdit	typeref:typename:void
+OnCheckPrtBasic	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCheckPrtBasic() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnCheckPrtDevD64	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCheckPrtDevD64() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnCheckPrtDevice	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCheckPrtDevice() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnCheckPrtLevel1	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCheckPrtLevel1() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnCheckPrtLevel3	.\\ConfigDialog.cpp	/^void CConfigDialog::OnCheckPrtLevel3() $/;"	f	class:CConfigDialog	typeref:typename:void
+OnDragEnter	.\\gridctrl_src\\GridCtrl.cpp	/^DROPEFFECT CGridCtrl::OnDragEnter(COleDataObject* pDataObject, DWORD dwKeyState, $/;"	f	class:CGridCtrl	typeref:typename:DROPEFFECT
+OnDragEnter	.\\gridctrl_src\\GridDropTarget.cpp	/^DROPEFFECT CGridDropTarget::OnDragEnter(CWnd* pWnd, COleDataObject* pDataObject, $/;"	f	class:CGridDropTarget	typeref:typename:DROPEFFECT
+OnDragLeave	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnDragLeave()$/;"	f	class:CGridCtrl	typeref:typename:void
+OnDragLeave	.\\gridctrl_src\\GridDropTarget.cpp	/^void CGridDropTarget::OnDragLeave(CWnd* pWnd)$/;"	f	class:CGridDropTarget	typeref:typename:void
+OnDragOver	.\\gridctrl_src\\GridCtrl.cpp	/^DROPEFFECT CGridCtrl::OnDragOver(COleDataObject* pDataObject, DWORD dwKeyState, $/;"	f	class:CGridCtrl	typeref:typename:DROPEFFECT
+OnDragOver	.\\gridctrl_src\\GridDropTarget.cpp	/^DROPEFFECT CGridDropTarget::OnDragOver(CWnd* pWnd, COleDataObject* pDataObject, $/;"	f	class:CGridDropTarget	typeref:typename:DROPEFFECT
+OnDraw	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnDraw(CDC* pDC)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnDrop	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::OnDrop(COleDataObject* pDataObject, DROPEFFECT \/*dropEffect*\/, $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+OnDrop	.\\gridctrl_src\\GridDropTarget.cpp	/^BOOL CGridDropTarget::OnDrop(CWnd* pWnd, COleDataObject* pDataObject,$/;"	f	class:CGridDropTarget	typeref:typename:BOOL
+OnEditCell	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEditCell(int nRow, int nCol, UINT nChar)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEditCopy	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEditCopy()$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEditCut	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEditCut()$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEditPaste	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEditPaste()$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEditSelectAll	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEditSelectAll() $/;"	f	class:CGridCtrl	typeref:typename:void
+OnEndEditCell	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEndEditCell(int nRow, int nCol, CString str)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEndInPlaceEdit	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEndInPlaceEdit(NMHDR* pNMHDR, LRESULT* pResult) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnEndPrinting	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnEndPrinting(CDC* \/*pDC*\/, CPrintInfo* \/*pInfo*\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnEraseBkgnd	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::OnEraseBkgnd(CDC* \/*pDC*\/) $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+OnFixedColumnClick	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnFixedColumnClick(CCellID& cell)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnFixedRowClick	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnFixedRowClick(CCellID& cell)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnGetDlgCode	.\\gridctrl_src\\GridCtrl.cpp	/^UINT CGridCtrl::OnGetDlgCode() $/;"	f	class:CGridCtrl	typeref:typename:UINT
+OnGetDlgCode	.\\gridctrl_src\\InPlaceEdit.cpp	/^UINT CInPlaceEdit::OnGetDlgCode() $/;"	f	class:CInPlaceEdit	typeref:typename:UINT
+OnGetFont	.\\gridctrl_src\\GridCtrl.cpp	/^LRESULT CGridCtrl::OnGetFont(WPARAM \/*wParam*\/, LPARAM \/*lParam*\/)$/;"	f	class:CGridCtrl	typeref:typename:LRESULT
+OnHScroll	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnHScroll(UINT nSBCode, UINT \/*nPos*\/, CScrollBar* \/*pScrollBar*\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnKeyDown	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnKeyDown(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnKeyDown	.\\gridctrl_src\\InPlaceList.cpp	/^void CComboEdit::OnKeyDown(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CComboEdit	typeref:typename:void
+OnKeyDown	.\\gridctrl_src\\InPlaceList.cpp	/^void CInPlaceList::OnKeyDown(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CInPlaceList	typeref:typename:void
+OnKeyUp	.\\gridctrl_src\\InPlaceList.cpp	/^void CComboEdit::OnKeyUp(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CComboEdit	typeref:typename:void
+OnKeyUp	.\\gridctrl_src\\InPlaceList.cpp	/^void CInPlaceList::OnKeyUp(UINT nChar, UINT nRepCnt, UINT nFlags) $/;"	f	class:CInPlaceList	typeref:typename:void
+OnKillFocus	.\\gridctrl_src\\InPlaceEdit.cpp	/^void CInPlaceEdit::OnKillFocus(CWnd* pNewWnd)$/;"	f	class:CInPlaceEdit	typeref:typename:void
+OnLButtonDblClk	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnLButtonDblClk(UINT nFlags, CPoint point) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnLButtonDown	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnLButtonDown(UINT nFlags, CPoint point)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnLButtonUp	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnLButtonUp(UINT nFlags, CPoint point)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnMouseMove	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnMouseMove(UINT nFlags, CPoint point)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnMouseMove	.\\gridctrl_src\\TitleTip.cpp	/^void CTitleTip::OnMouseMove(UINT nFlags, CPoint point) $/;"	f	class:CTitleTip	typeref:typename:void
+OnMouseWheel	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::OnMouseWheel(UINT nFlags, short zDelta, CPoint pt) $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+OnPaint	.\\ACE400MainDlg.cpp	/^void CACE400MainDlg::OnPaint() $/;"	f	class:CACE400MainDlg	typeref:typename:void
+OnPrint	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnPrint(CDC *pDC, CPrintInfo *pInfo)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnQueryDragIcon	.\\ACE400MainDlg.cpp	/^HCURSOR CACE400MainDlg::OnQueryDragIcon()$/;"	f	class:CACE400MainDlg	typeref:typename:HCURSOR
+OnSelecting	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnSelecting(const CCellID& currentCell)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnSetCursor	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::OnSetCursor(CWnd* pWnd, UINT nHitTest, UINT message) $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+OnSetFont	.\\gridctrl_src\\GridCtrl.cpp	/^LRESULT CGridCtrl::OnSetFont(WPARAM hFont, LPARAM \/*lParam *\/)$/;"	f	class:CGridCtrl	typeref:typename:LRESULT
+OnSettingChange	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnSettingChange(UINT uFlags, LPCTSTR lpszSection) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnShowWindow	.\\ConfigDialog.cpp	/^void CConfigDialog::OnShowWindow(BOOL bShow, UINT nStatus) $/;"	f	class:CConfigDialog	typeref:typename:void
+OnSize	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnSize(UINT nType, int cx, int cy) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnSysColorChange	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnSysColorChange() $/;"	f	class:CGridCtrl	typeref:typename:void
+OnSysCommand	.\\ACE400MainDlg.cpp	/^void CACE400MainDlg::OnSysCommand(UINT nID, LPARAM lParam)$/;"	f	class:CACE400MainDlg	typeref:typename:void
+OnTimer	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnTimer(UINT nIDEvent)$/;"	f	class:CGridCtrl	typeref:typename:void
+OnUpdateEditCopy	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnUpdateEditCopy(CCmdUI* pCmdUI) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnUpdateEditCut	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnUpdateEditCut(CCmdUI* pCmdUI) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnUpdateEditPaste	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnUpdateEditPaste(CCmdUI* pCmdUI) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnUpdateEditSelectAll	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnUpdateEditSelectAll(CCmdUI* pCmdUI) $/;"	f	class:CGridCtrl	typeref:typename:void
+OnVScroll	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::OnVScroll(UINT nSBCode, UINT \/*nPos*\/, CScrollBar* \/*pScrollBar*\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+PROCESS_MEMORY_COUNTERS	.\\Globals.cpp	/^} PROCESS_MEMORY_COUNTERS;$/;"	t	typeref:struct:__anon1ad2ae240108	file:
+PRT_BASIC	.\\Globals.h	/^enum PRT_TYPE { PRT_BASIC, 					\/\/ 0x0001$/;"	e	enum:PRT_TYPE
+PRT_DEVICE	.\\Globals.h	/^				PRT_DEVICE, 				\/\/ 0x0005$/;"	e	enum:PRT_TYPE
+PRT_DEV_D64	.\\Globals.h	/^				PRT_DEV_D64,				\/\/ 0x0006$/;"	e	enum:PRT_TYPE
+PRT_LEVEL1	.\\Globals.h	/^				PRT_LEVEL1, 				\/\/ 0x0002$/;"	e	enum:PRT_TYPE
+PRT_LEVEL2	.\\Globals.h	/^				PRT_LEVEL2, 				\/\/ 0x0003$/;"	e	enum:PRT_TYPE
+PRT_LEVEL3	.\\Globals.h	/^				PRT_LEVEL3, 				\/\/ 0x0004$/;"	e	enum:PRT_TYPE
+PRT_TYPE	.\\Globals.h	/^enum PRT_TYPE { PRT_BASIC, 					\/\/ 0x0001$/;"	g
+PageFaultCount	.\\Globals.cpp	/^   DWORD PageFaultCount;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+PagefileUsage	.\\Globals.cpp	/^   DWORD PagefileUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+ParameterDir	.\\Globals.h	/^	CString ParameterDir;$/;"	m	struct:sFILE_DATA	typeref:typename:CString
+PasteTextToGrid	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::PasteTextToGrid(CCellID cell, COleDataObject* pDataObject)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+PeakPagefileUsage	.\\Globals.cpp	/^   DWORD PeakPagefileUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+PeakWorkingSetSize	.\\Globals.cpp	/^   DWORD PeakWorkingSetSize;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+PostNcDestroy	.\\gridctrl_src\\InPlaceEdit.cpp	/^void CInPlaceEdit::PostNcDestroy() $/;"	f	class:CInPlaceEdit	typeref:typename:void
+PostNcDestroy	.\\gridctrl_src\\InPlaceList.cpp	/^void CInPlaceList::PostNcDestroy() $/;"	f	class:CInPlaceList	typeref:typename:void
+PreSubclassWindow	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::PreSubclassWindow() $/;"	f	class:CGridCtrl	typeref:typename:void
+PreTranslateMessage	.\\ACE400MainDlg.cpp	/^BOOL CACE400MainDlg::PreTranslateMessage(MSG* pMsg) $/;"	f	class:CACE400MainDlg	typeref:typename:BOOL
+PreTranslateMessage	.\\gridctrl_src\\InPlaceEdit.cpp	/^BOOL CInPlaceEdit::PreTranslateMessage(MSG* pMsg) $/;"	f	class:CInPlaceEdit	typeref:typename:BOOL
+PreTranslateMessage	.\\gridctrl_src\\InPlaceList.cpp	/^BOOL CComboEdit::PreTranslateMessage(MSG* pMsg) $/;"	f	class:CComboEdit	typeref:typename:BOOL
+PreTranslateMessage	.\\gridctrl_src\\TitleTip.cpp	/^BOOL CTitleTip::PreTranslateMessage(MSG* pMsg) $/;"	f	class:CTitleTip	typeref:typename:BOOL
+Print	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::Print() $/;"	f	class:CGridCtrl	typeref:typename:void
+PrintColumnHeadings	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::PrintColumnHeadings(CDC *pDC, CPrintInfo* \/*pInfo*\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+PrintFooter	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::PrintFooter(CDC *pDC, CPrintInfo *pInfo)$/;"	f	class:CGridCtrl	typeref:typename:void
+PrintHeader	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::PrintHeader(CDC *pDC, CPrintInfo *pInfo)$/;"	f	class:CGridCtrl	typeref:typename:void
+QuotaNonPagedPoolUsage	.\\Globals.cpp	/^   DWORD QuotaNonPagedPoolUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+QuotaPagedPoolUsage	.\\Globals.cpp	/^   DWORD QuotaPagedPoolUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+QuotaPeakNonPagedPoolUsage	.\\Globals.cpp	/^   DWORD QuotaPeakNonPagedPoolUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+QuotaPeakPagedPoolUsage	.\\Globals.cpp	/^   DWORD QuotaPeakPagedPoolUsage;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+RANGE_OVER	.\\Error.h	/^	RANGE_OVER=700,$/;"	e	enum:ErrID
+RIGHT_MARGIN	.\\gridctrl_src\\GridCtrl.cpp	/^#define RIGHT_MARGIN /;"	d	file:
+RedrawCell	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::RedrawCell(const CCellID& cell, CDC* pDC \/* = NULL *\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+RedrawCell	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::RedrawCell(int nRow, int nCol, CDC* pDC \/* = NULL *\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+RedrawColumn	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::RedrawColumn(int col)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+RedrawRow	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::RedrawRow(int row)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+Register	.\\gridctrl_src\\GridDropTarget.cpp	/^BOOL CGridDropTarget::Register(CGridCtrl *pGridCtrl)$/;"	f	class:CGridDropTarget	typeref:typename:BOOL
+RegisterWindowClass	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::RegisterWindowClass()$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+Reset	.\\Error.cpp	/^void CError::Reset()$/;"	f	class:CError	typeref:typename:void
+ResetScrollBars	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::ResetScrollBars()$/;"	f	class:CGridCtrl	typeref:typename:void
+ResetSelectedRange	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::ResetSelectedRange()$/;"	f	class:CGridCtrl	typeref:typename:void
+Revoke	.\\gridctrl_src\\GridDropTarget.cpp	/^void CGridDropTarget::Revoke()$/;"	f	class:CGridDropTarget	typeref:typename:void
+SEC_TO_MSEC	.\\Globals.h	/^	MM_TO_UM, UM_TO_MM, SEC_TO_MSEC, MSEC_TO_SEC$/;"	e	enum:UNIT_CONVERT_TYPE
+SELECTED_CELL_FONT_WEIGHT	.\\gridctrl_src\\GridCtrl.cpp	/^#define SELECTED_CELL_FONT_WEIGHT /;"	d	file:
+SENSOR	.\\Error.h	/^	SENSOR=100,$/;"	e	enum:ErrID
+SGNI	.\\Error.h	/^	SGNI=400,$/;"	e	enum:ErrID
+SS_DT12V_LOW	.\\Error.h	/^		SS_DT12V_LOW,$/;"	e	enum:ErrID
+SS_DT24V_LOW	.\\Error.h	/^		SS_DT24V_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_A_LOW	.\\Error.h	/^		SS_DT5VB_A_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_B_LOW	.\\Error.h	/^		SS_DT5VB_B_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_C_LOW	.\\Error.h	/^		SS_DT5VB_C_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_D_LOW	.\\Error.h	/^		SS_DT5VB_D_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_E_LOW	.\\Error.h	/^		SS_DT5VB_E_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_F_LOW	.\\Error.h	/^		SS_DT5VB_F_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_G_LOW	.\\Error.h	/^		SS_DT5VB_G_LOW,$/;"	e	enum:ErrID
+SS_DT5VB_H_LOW	.\\Error.h	/^		SS_DT5VB_H_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_A_LOW	.\\Error.h	/^		SS_DT5VC_A_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_B_LOW	.\\Error.h	/^		SS_DT5VC_B_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_C_LOW	.\\Error.h	/^		SS_DT5VC_C_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_D_LOW	.\\Error.h	/^		SS_DT5VC_D_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_E_LOW	.\\Error.h	/^		SS_DT5VC_E_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_F_LOW	.\\Error.h	/^		SS_DT5VC_F_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_G_LOW	.\\Error.h	/^		SS_DT5VC_G_LOW,$/;"	e	enum:ErrID
+SS_DT5VC_H_LOW	.\\Error.h	/^		SS_DT5VC_H_LOW,$/;"	e	enum:ErrID
+SS_DT5V_LOW	.\\Error.h	/^		SS_DT5V_LOW,$/;"	e	enum:ErrID
+SS_DTHV_LOW	.\\Error.h	/^		SS_DTHV_LOW,	$/;"	e	enum:ErrID
+SW_LOGIC_ERR	.\\Error.h	/^	SW_LOGIC_ERR = 750,$/;"	e	enum:ErrID
+SW_NO_INIT_VAR	.\\Error.h	/^		SW_NO_INIT_VAR,$/;"	e	enum:ErrID
+Save	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::Save(LPCTSTR filename)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SelectAllCells	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SelectAllCells()$/;"	f	class:CGridCtrl	typeref:typename:void
+SelectCells	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SelectCells(CCellID currentCell)$/;"	f	class:CGridCtrl	typeref:typename:void
+SelectColumns	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SelectColumns(CCellID currentCell)$/;"	f	class:CGridCtrl	typeref:typename:void
+SelectRows	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SelectRows(CCellID currentCell)$/;"	f	class:CGridCtrl	typeref:typename:void
+SendMessageToParent	.\\gridctrl_src\\GridCtrl.cpp	/^LRESULT CGridCtrl::SendMessageToParent(int nRow, int nCol, int nMessage)$/;"	f	class:CGridCtrl	typeref:typename:LRESULT
+Set	.\\Error.cpp	/^void CError::Set(int error_no, CString strState)$/;"	f	class:CError	typeref:typename:void
+Set	.\\gridctrl_src\\CellRange.h	/^inline void CCellRange::Set(int minRow, int minCol, int maxRow, int maxCol)$/;"	f	class:CCellRange	typeref:typename:void
+SetBkColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetBkColor(COLORREF clr)             { m_crBkColour = clr;               }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetCell	.\\gridctrl_src\\GridCtrl.h	/^inline BOOL CGridCtrl::SetCell(int nRow, int nCol, CGridCell* pCell)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetColumnCount	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetColumnCount(int nCols)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetColumnResize	.\\gridctrl_src\\GridCtrl.h	/^    void SetColumnResize(BOOL bResize = TRUE)     { m_bAllowColumnResize = bResize;   }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetColumnWidth	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetColumnWidth(int nCol, int width)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetDoubleBuffering	.\\gridctrl_src\\GridCtrl.h	/^    void SetDoubleBuffering(BOOL bBuffer = TRUE)  { m_bDoubleBuffer = bBuffer;        }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetEditable	.\\gridctrl_src\\GridCtrl.h	/^    void SetEditable(BOOL bEditable = TRUE)       { m_bEditable = bEditable;          }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetFixedBkColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetFixedBkColor(COLORREF clr)        { m_crFixedBkColour = clr;          }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetFixedColumnCount	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetFixedColumnCount(int nFixedCols)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetFixedRowCount	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetFixedRowCount(int nFixedRows)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetFixedTextColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetFixedTextColor(COLORREF clr)      { m_crFixedTextColour = clr;        }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetFocusCell	.\\gridctrl_src\\GridCtrl.cpp	/^CCellID CGridCtrl::SetFocusCell(CCellID cell)$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+SetFocusCell	.\\gridctrl_src\\GridCtrl.cpp	/^CCellID CGridCtrl::SetFocusCell(int nRow, int nCol)$/;"	f	class:CGridCtrl	typeref:typename:CCellID
+SetGridColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetGridColor(COLORREF clr)           { m_crGridColour = clr;             }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetGridLines	.\\gridctrl_src\\GridCtrl.h	/^    void SetGridLines(int nWhichLines = GVL_BOTH) { m_nGridLines = nWhichLines; $/;"	f	class:CGridCtrl	typeref:typename:void
+SetHandleTabKey	.\\gridctrl_src\\GridCtrl.h	/^    void SetHandleTabKey(BOOL bHandleTab = TRUE)  { m_bHandleTabKey = bHandleTab;     }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetHeaderSort	.\\gridctrl_src\\GridCtrl.h	/^    void SetHeaderSort(BOOL bSortOnClick = TRUE)  { m_bSortOnClick = bSortOnClick;    }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetImageList	.\\gridctrl_src\\GridCtrl.h	/^    void SetImageList(CImageList* pList)          { m_pImageList = pList;             }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetItem	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItem(const GV_ITEM* pItem)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemBkColour	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemBkColour(int nRow, int nCol, COLORREF cr \/* = CLR_DEFAULT *\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemData	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemData(int nRow, int nCol, LPARAM lParam)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemFgColour	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemFgColour(int nRow, int nCol, COLORREF cr \/* = CLR_DEFAULT *\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemFont	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemFont(int nRow, int nCol, LOGFONT* lf)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemFormat	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemFormat(int nRow, int nCol, UINT nFormat)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemImage	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemImage(int nRow, int nCol, int iImage)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemState	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemState(int nRow, int nCol, UINT state)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetItemText	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetItemText(int nRow, int nCol, LPCTSTR str)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetListMode	.\\gridctrl_src\\GridCtrl.h	/^    void SetListMode(BOOL bEnableListMode = TRUE) { m_bListMode = bEnableListMode;    }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetMaxCol	.\\gridctrl_src\\CellRange.h	/^    void SetMaxCol(int maxCol) {m_nMaxCol = maxCol;}$/;"	f	class:CCellRange	typeref:typename:void
+SetMaxRow	.\\gridctrl_src\\CellRange.h	/^    void SetMaxRow(int maxRow) {m_nMaxRow = maxRow;}$/;"	f	class:CCellRange	typeref:typename:void
+SetMinCol	.\\gridctrl_src\\CellRange.h	/^    void SetMinCol(int minCol) {m_nMinCol = minCol;}$/;"	f	class:CCellRange	typeref:typename:void
+SetMinRow	.\\gridctrl_src\\CellRange.h	/^    void SetMinRow(int minRow) {m_nMinRow = minRow;}$/;"	f	class:CCellRange	typeref:typename:void
+SetModified	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SetModified(BOOL bModified \/*=TRUE*\/, int nRow \/*=-1*\/, int nCol \/*=-1*\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+SetMouseMode	.\\gridctrl_src\\GridCtrl.h	/^    int  SetMouseMode(int nMode) { int nOldMode = m_MouseMode; m_MouseMode = nMode; return nOldM/;"	f	class:CGridCtrl	typeref:typename:int
+SetRedraw	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SetRedraw(BOOL bAllowDraw, BOOL bResetScrollBars \/* = FALSE *\/)$/;"	f	class:CGridCtrl	typeref:typename:void
+SetRowCount	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetRowCount(int nRows)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetRowHeight	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetRowHeight(int nRow, int height)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetRowResize	.\\gridctrl_src\\GridCtrl.h	/^    void SetRowResize(BOOL bResize = TRUE)        { m_bAllowRowResize = bResize;      }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetScrollPos32	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SetScrollPos32(int nBar, int nPos, BOOL bRedraw \/* = TRUE *\/)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SetSelectedRange	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SetSelectedRange(const CCellRange& Range, $/;"	f	class:CGridCtrl	typeref:typename:void
+SetSelectedRange	.\\gridctrl_src\\GridCtrl.cpp	/^void CGridCtrl::SetSelectedRange(int nMinRow, int nMinCol, int nMaxRow, int nMaxCol,$/;"	f	class:CGridCtrl	typeref:typename:void
+SetSingleRowSelection	.\\gridctrl_src\\GridCtrl.h	/^    void SetSingleRowSelection(BOOL bSing = TRUE) { m_bSingleRowSelection = bSing;    }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetTextBkColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetTextBkColor(COLORREF clr)         { m_crTextBkColour = clr;           }$/;"	f	class:CGridCtrl	typeref:typename:void
+SetTextColor	.\\gridctrl_src\\GridCtrl.h	/^    void     SetTextColor(COLORREF clr)           { m_crTextColour = clr;             }$/;"	f	class:CGridCtrl	typeref:typename:void
+Show	.\\gridctrl_src\\TitleTip.cpp	/^void CTitleTip::Show(CRect rectTitle, LPCTSTR lpszTitleText, int xoffset \/*=0*\/,$/;"	f	class:CTitleTip	typeref:typename:void
+SortItems	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SortItems(PFNLVCOMPARE pfnCompare, int nCol, BOOL bAscending, $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SortItems	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SortItems(PFNLVCOMPARE pfnCompare, int nCol, BOOL bAscending, LPARAM data,$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SortTextItems	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SortTextItems(int nCol, BOOL bAscending)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SortTextItems	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SortTextItems(int nCol, BOOL bAscending, int low, int high)$/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SubclassWindow	.\\gridctrl_src\\GridCtrl.cpp	/^BOOL CGridCtrl::SubclassWindow(HWND hWnd) $/;"	f	class:CGridCtrl	typeref:typename:BOOL
+SystemDir	.\\Globals.h	/^	CString	SystemDir;					\/\/ ACE400Analysis 프로그램을 수행한 디렉토리$/;"	m	struct:sFILE_DATA	typeref:typename:CString
+SystemFile	.\\Globals.h	/^	CString SystemFile; $/;"	m	struct:sFILE_DATA	typeref:typename:CString
+SystemFileName	.\\Globals.h	/^	CString SystemFileName; $/;"	m	struct:sFILE_DATA	typeref:typename:CString
+TEST_ERR	.\\Error.h	/^	TEST_ERR=1,$/;"	e	enum:ErrID
+TEST_TRACE	.\\Error.h	/^	TEST_TRACE=2,$/;"	e	enum:ErrID
+THIS_FILE	.\\ACE400MainDlg.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\ACE400_ShortTest.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\ConfigDialog.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\Error.cpp	/^static char THIS_FILE[]=__FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\Globals.cpp	/^static char THIS_FILE[]=__FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\ShortTestDialog.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\gridctrl_src\\GridCtrl.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\gridctrl_src\\GridDropTarget.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\gridctrl_src\\InPlaceEdit.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\gridctrl_src\\InPlaceList.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+THIS_FILE	.\\gridctrl_src\\TitleTip.cpp	/^static char THIS_FILE[] = __FILE__;$/;"	v	typeref:typename:char[]	file:
+TITLETIP_CLASSNAME	.\\gridctrl_src\\TitleTip.h	/^#define TITLETIP_CLASSNAME /;"	d
+TOP_MARGIN	.\\gridctrl_src\\GridCtrl.cpp	/^#define TOP_MARGIN /;"	d	file:
+TRY	.\\gridctrl_src\\GridCtrl.h	/^#define TRY /;"	d
+UM_TO_MM	.\\Globals.h	/^	MM_TO_UM, UM_TO_MM, SEC_TO_MSEC, MSEC_TO_SEC$/;"	e	enum:UNIT_CONVERT_TYPE
+UNIT	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	g
+UNIT_CONVERT_TYPE	.\\Globals.h	/^enum UNIT_CONVERT_TYPE	{ $/;"	g
+USER_ERR	.\\Error.h	/^	USER_ERR=650,$/;"	e	enum:ErrID
+VB_Print	.\\ShortTestDialog.cpp	/^CString CShortTestDialog::VB_Print(int start, int end) $/;"	f	class:CShortTestDialog	typeref:typename:CString
+VB_PrintTrace	.\\ShortTestDialog.cpp	/^void CShortTestDialog::VB_PrintTrace() $/;"	f	class:CShortTestDialog	typeref:typename:void
+VB_Reset	.\\ShortTestDialog.cpp	/^void CShortTestDialog::VB_Reset() $/;"	f	class:CShortTestDialog	typeref:typename:void
+VB_SwOn	.\\ShortTestDialog.cpp	/^int CShortTestDialog::VB_SwOn(short wVbPin) $/;"	f	class:CShortTestDialog	typeref:typename:int
+VC_EXTRALEAN	.\\StdAfx.h	/^#define VC_EXTRALEAN	/;"	d
+VC_Print	.\\ShortTestDialog.cpp	/^CString CShortTestDialog::VC_Print(int start, int end) $/;"	f	class:CShortTestDialog	typeref:typename:CString
+VC_PrintTrace	.\\ShortTestDialog.cpp	/^void CShortTestDialog::VC_PrintTrace() $/;"	f	class:CShortTestDialog	typeref:typename:void
+VC_Reset	.\\ShortTestDialog.cpp	/^void CShortTestDialog::VC_Reset() $/;"	f	class:CShortTestDialog	typeref:typename:void
+VC_SwOn	.\\ShortTestDialog.cpp	/^int CShortTestDialog::VC_SwOn(short wVcPin) $/;"	f	class:CShortTestDialog	typeref:typename:int
+VS_VERSION_INFO	.\\ACE400_ShortTest.rc	/^VS_VERSION_INFO VERSIONINFO$/;"	v
+WINAPI	.\\Globals.cpp	/^typedef BOOL (WINAPI *GetMemInfo)( Win32MemArgs );$/;"	t	typeref:typename:BOOL (* GetMemInfo)(Win32MemArgs)	file:
+Win32MemArgs	.\\Globals.cpp	/^#define Win32MemArgs /;"	d	file:
+WorkingSetSize	.\\Globals.cpp	/^   DWORD WorkingSetSize;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+_APS_NEXT_COMMAND_VALUE	.\\resource.h	/^#define _APS_NEXT_COMMAND_VALUE /;"	d
+_APS_NEXT_CONTROL_VALUE	.\\resource.h	/^#define _APS_NEXT_CONTROL_VALUE /;"	d
+_APS_NEXT_RESOURCE_VALUE	.\\resource.h	/^#define _APS_NEXT_RESOURCE_VALUE /;"	d
+_APS_NEXT_SYMED_VALUE	.\\resource.h	/^#define _APS_NEXT_SYMED_VALUE /;"	d
+_GV_ITEM	.\\gridctrl_src\\GridCtrl.h	/^typedef struct _GV_ITEM { $/;"	s
+_WIN32_WCE_NO_CURSOR	.\\gridctrl_src\\GridCtrl.h	/^#define _WIN32_WCE_NO_CURSOR$/;"	d
+_WIN32_WCE_NO_PRINTING	.\\gridctrl_src\\GridCtrl.h	/^#define _WIN32_WCE_NO_PRINTING$/;"	d
+__LINE_PRT__	.\\Globals.h	/^#define	__LINE_PRT__	/;"	d
+__PrintLine	.\\Globals.cpp	/^void __PrintLine(char* strFile, int line)$/;"	f	typeref:typename:void
+__PrintMemSize	.\\Globals.cpp	/^void __PrintMemSize(char* strFunc, int line)$/;"	f	typeref:typename:void
+__anon1ad2ae240108	.\\Globals.cpp	/^typedef struct {$/;"	s	file:
+__anon747cc43e0103	.\\ACE400MainDlg.h	/^	enum { IDD = IDD_MAIN_DIALOG };$/;"	g	class:CACE400MainDlg
+__anon7936154b0103	.\\ConfigDialog.h	/^	enum { IDD = IDD_CONFIG_DIALOG };$/;"	g	class:CConfigDialog
+__anon86bec5590103	.\\ACE400MainDlg.cpp	/^	enum { IDD = IDD_ABOUTBOX };$/;"	g	class:CAboutDlg	file:
+__anon99cd842f0108	.\\Error.h	/^typedef struct {$/;"	s
+__anonc77812a50103	.\\ShortTestDialog.h	/^	enum { IDD = IDD_SHORT_TEST_DIALOG };$/;"	g	class:CShortTestDialog
+addPinList	.\\ShortTestDialog.h	/^	int addPinList(short wPin)$/;"	f	class:CPinList	typeref:typename:int
+cb	.\\Globals.cpp	/^   DWORD cb;$/;"	m	struct:__anon1ad2ae240108	typeref:typename:DWORD	file:
+col	.\\gridctrl_src\\CellRange.h	/^    int row, col;$/;"	m	class:CCellID	typeref:typename:int
+col	.\\gridctrl_src\\GridCtrl.h	/^    int      row,col;     \/\/ Row and Column of item$/;"	m	struct:_GV_ITEM	typeref:typename:int
+crBkClr	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF crBkClr;     \/\/ Background colour (or CLR_DEFAULT)$/;"	m	class:CGridCell	typeref:typename:COLORREF
+crBkClr	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF crBkClr;     \/\/ Background colour (or CLR_DEFAULT)$/;"	m	struct:_GV_ITEM	typeref:typename:COLORREF
+crFgClr	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF crFgClr;     \/\/ Forground colour (or CLR_DEFAULT)$/;"	m	class:CGridCell	typeref:typename:COLORREF
+crFgClr	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF crFgClr;     \/\/ Forground colour (or CLR_DEFAULT)$/;"	m	struct:_GV_ITEM	typeref:typename:COLORREF
+eMouseModes	.\\gridctrl_src\\GridCtrl.h	/^    enum eMouseModes { MOUSE_NOTHING, MOUSE_SELECT_ALL, MOUSE_SELECT_COL, MOUSE_SELECT_ROW,$/;"	g	class:CGridCtrl
+error_no	.\\Error.h	/^    int error_no;$/;"	m	struct:__anon99cd842f0108	typeref:typename:int
+g_cs	.\\Globals.cpp	/^static CCriticalSection g_cs;		$/;"	v	typeref:typename:CCriticalSection	file:
+g_sFile	.\\Globals.cpp	/^sFILE_DATA		g_sFile;$/;"	v	typeref:typename:sFILE_DATA
+g_wPrintState	.\\Globals.cpp	/^WORD			g_wPrintState = 0x0001;		\/\/ PRT_BASIC    on $/;"	v	typeref:typename:WORD
+getStr_PinList	.\\ShortTestDialog.h	/^	CString getStr_PinList()$/;"	f	class:CPinList	typeref:typename:CString
+hdr	.\\gridctrl_src\\GridCtrl.h	/^    NMHDR   hdr; $/;"	m	struct:tagGV_DISPINFO	typeref:typename:NMHDR
+hdr	.\\gridctrl_src\\GridCtrl.h	/^    NMHDR hdr; $/;"	m	struct:tagNM_GRIDVIEW	typeref:typename:NMHDR
+iColumn	.\\gridctrl_src\\GridCtrl.h	/^    int   iColumn; $/;"	m	struct:tagNM_GRIDVIEW	typeref:typename:int
+iImage	.\\gridctrl_src\\GridCtrl.h	/^    int      iImage;      \/\/ Index of the list view item뭩 icon $/;"	m	class:CGridCell	typeref:typename:int
+iImage	.\\gridctrl_src\\GridCtrl.h	/^    int      iImage;      \/\/ index of the list view item뭩 icon$/;"	m	struct:_GV_ITEM	typeref:typename:int
+iRow	.\\gridctrl_src\\GridCtrl.h	/^    int   iRow; $/;"	m	struct:tagNM_GRIDVIEW	typeref:typename:int
+initMember	.\\ShortTestDialog.h	/^	void initMember()	\/\/ 초기화 함수 $/;"	f	class:CPinList	typeref:typename:void
+isEmpty	.\\ShortTestDialog.h	/^	BOOL isEmpty()$/;"	f	class:CPinList	typeref:typename:BOOL
+isExist	.\\ShortTestDialog.h	/^	BOOL isExist(short wPin)$/;"	f	class:CPinList	typeref:typename:BOOL
+item	.\\gridctrl_src\\GridCtrl.h	/^    GV_ITEM item; $/;"	m	struct:tagGV_DISPINFO	typeref:typename:GV_ITEM
+lParam	.\\gridctrl_src\\GridCtrl.h	/^    LPARAM   lParam;      \/\/ 32-bit value to associate with item $/;"	m	struct:_GV_ITEM	typeref:typename:LPARAM
+lParam	.\\gridctrl_src\\GridCtrl.h	/^    LPARAM   lParam;      \/\/ 32-bit value to associate with item$/;"	m	class:CGridCell	typeref:typename:LPARAM
+lfFont	.\\gridctrl_src\\GridCtrl.h	/^    LOGFONT  lfFont;      \/\/ Cell font$/;"	m	class:CGridCell	typeref:typename:LOGFONT
+lfFont	.\\gridctrl_src\\GridCtrl.h	/^    LOGFONT  lfFont;      \/\/ Cell font$/;"	m	struct:_GV_ITEM	typeref:typename:LOGFONT
+mA	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+m_Bad	.\\ShortTestDialog.h	/^	CPinList	m_Bad; 						\/\/ Short Test에서 잡아야 할 불량 Pin List (VB, VC 모두 포함)$/;"	m	class:CShortTestDialog	typeref:typename:CPinList
+m_CharSize	.\\gridctrl_src\\GridCtrl.h	/^    CSize       m_CharSize;$/;"	m	class:CGridCtrl	typeref:typename:CSize
+m_ConfigDlg	.\\ACE400MainDlg.h	/^	CConfigDialog		m_ConfigDlg;$/;"	m	class:CACE400MainDlg	typeref:typename:CConfigDialog
+m_DropTarget	.\\gridctrl_src\\GridCtrl.h	/^    CGridDropTarget m_DropTarget;       \/\/ OLE Drop target for the grid$/;"	m	class:CGridCtrl	typeref:typename:CGridDropTarget
+m_Font	.\\gridctrl_src\\GridCtrl.h	/^                m_Font;         \/\/ for the grid$/;"	m	class:CGridCtrl	typeref:typename:CFont
+m_LastDragOverCell	.\\gridctrl_src\\GridCtrl.h	/^    CCellID     m_LastDragOverCell;$/;"	m	class:CGridCtrl	typeref:typename:CCellID
+m_LastMousePoint	.\\gridctrl_src\\GridCtrl.h	/^    CPoint      m_LeftClickDownPoint, m_LastMousePoint;$/;"	m	class:CGridCtrl	typeref:typename:CPoint
+m_LeftClickDownCell	.\\gridctrl_src\\GridCtrl.h	/^    CCellID     m_LeftClickDownCell, m_SelectionStartCell;$/;"	m	class:CGridCtrl	typeref:typename:CCellID
+m_LeftClickDownPoint	.\\gridctrl_src\\GridCtrl.h	/^    CPoint      m_LeftClickDownPoint, m_LastMousePoint;$/;"	m	class:CGridCtrl	typeref:typename:CPoint
+m_Logfont	.\\gridctrl_src\\GridCtrl.h	/^    LOGFONT     m_Logfont;$/;"	m	class:CGridCtrl	typeref:typename:LOGFONT
+m_LogicalPageSize	.\\gridctrl_src\\GridCtrl.h	/^    CSize       m_LogicalPageSize,      \/\/ Page size in gridctrl units.$/;"	m	class:CGridCtrl	typeref:typename:CSize
+m_MouseMode	.\\gridctrl_src\\GridCtrl.h	/^    int         m_MouseMode;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_PaperSize	.\\gridctrl_src\\GridCtrl.h	/^                m_PaperSize;            \/\/ Page size in device units.$/;"	m	class:CGridCtrl	typeref:typename:CSize
+m_PrevSelectedCellMap	.\\gridctrl_src\\GridCtrl.h	/^    CMap<DWORD,DWORD, CCellID, CCellID&> m_SelectedCellMap, m_PrevSelectedCellMap;$/;"	m	class:CGridCtrl	typeref:typename:CMap<DWORD,DWORD,CCellID,CCellID &>
+m_PrinterFont	.\\gridctrl_src\\GridCtrl.h	/^    CFont       m_PrinterFont,  \/\/ for the printer$/;"	m	class:CGridCtrl	typeref:typename:CFont
+m_Rect	.\\gridctrl_src\\InPlaceEdit.h	/^    CRect   m_Rect;$/;"	m	class:CInPlaceEdit	typeref:typename:CRect
+m_RowData	.\\gridctrl_src\\GridCtrl.h	/^    CTypedPtrArray<CObArray, GRID_ROW*> m_RowData;$/;"	m	class:CGridCtrl	typeref:typename:CTypedPtrArray<CObArray,GRID_ROW * >
+m_SelectedCellMap	.\\gridctrl_src\\GridCtrl.h	/^    CMap<DWORD,DWORD, CCellID, CCellID&> m_SelectedCellMap, m_PrevSelectedCellMap;$/;"	m	class:CGridCtrl	typeref:typename:CMap<DWORD,DWORD,CCellID,CCellID &>
+m_SelectionStartCell	.\\gridctrl_src\\GridCtrl.h	/^    CCellID     m_LeftClickDownCell, m_SelectionStartCell;$/;"	m	class:CGridCtrl	typeref:typename:CCellID
+m_ShortTestDlg	.\\ACE400MainDlg.h	/^	CShortTestDialog	m_ShortTestDlg;$/;"	m	class:CACE400MainDlg	typeref:typename:CShortTestDialog
+m_SortColumn	.\\gridctrl_src\\GridCtrl.h	/^    int         m_SortColumn;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_TitleTip	.\\gridctrl_src\\GridCtrl.h	/^    CTitleTip   m_TitleTip;             \/\/ Title tips for cells$/;"	m	class:CGridCtrl	typeref:typename:CTitleTip
+m_arColWidths	.\\gridctrl_src\\GridCtrl.h	/^    CUIntArray  m_arRowHeights, m_arColWidths;$/;"	m	class:CGridCtrl	typeref:typename:CUIntArray
+m_arRowHeights	.\\gridctrl_src\\GridCtrl.h	/^    CUIntArray  m_arRowHeights, m_arColWidths;$/;"	m	class:CGridCtrl	typeref:typename:CUIntArray
+m_bAllowColumnResize	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bAllowRowResize, m_bAllowColumnResize;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bAllowDragAndDrop	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bAllowDragAndDrop;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bAllowDraw	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bAllowDraw;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bAllowRowResize	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bAllowRowResize, m_bAllowColumnResize;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bAscending	.\\gridctrl_src\\GridCtrl.h	/^    int         m_bAscending;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_bDoubleBuffer	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bDoubleBuffer;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bEditable	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bEditable;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bEnableSelection	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bEnableSelection;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bExitOnArrows	.\\gridctrl_src\\InPlaceEdit.h	/^    BOOL    m_bExitOnArrows;$/;"	m	class:CInPlaceEdit	typeref:typename:BOOL
+m_bExitOnArrows	.\\gridctrl_src\\InPlaceList.h	/^	BOOL	m_bExitOnArrows; $/;"	m	class:CInPlaceList	typeref:typename:BOOL
+m_bFlagSQMatrxChanged	.\\ShortTestDialog.h	/^	BOOL		m_bFlagSQMatrxChanged;		\/\/ VC, Extra VB 때문에 SQ Matrix의 일부가 -1로 변경되었음을 표�/;"	m	class:CShortTestDialog	typeref:typename:BOOL
+m_bFlag_RegistVbBad	.\\ShortTestDialog.h	/^	BOOL		m_bFlag_RegistVbBad;		\/\/ -1 표기할 VC Bad가 있다는 표시$/;"	m	class:CShortTestDialog	typeref:typename:BOOL
+m_bFlag_RegistVcBad	.\\ShortTestDialog.h	/^	BOOL		m_bFlag_RegistVcBad;		\/\/ -1 표기할 VC Bad가 있다는 표시$/;"	m	class:CShortTestDialog	typeref:typename:BOOL
+m_bHandleTabKey	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bHandleTabKey;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bListMode	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bListMode;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bMemDC	.\\gridctrl_src\\MemDC.h	/^    BOOL     m_bMemDC;      \/\/ TRUE if CDC really is a Memory DC.$/;"	m	class:CMemDC	typeref:typename:BOOL
+m_bModified	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bModified;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bMustUninitOLE	.\\gridctrl_src\\GridCtrl.h	/^	BOOL		m_bMustUninitOLE;		\/\/ Do we need to uninitialise OLE?$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bPrtBasic	.\\ConfigDialog.h	/^	BOOL	m_bPrtBasic;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bPrtDevD64	.\\ConfigDialog.h	/^	BOOL	m_bPrtDevD64;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bPrtDevice	.\\ConfigDialog.h	/^	BOOL	m_bPrtDevice;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bPrtLevel1	.\\ConfigDialog.h	/^	BOOL	m_bPrtLevel1;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bPrtLevel2	.\\ConfigDialog.h	/^	BOOL	m_bPrtLevel2;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bPrtLevel3	.\\ConfigDialog.h	/^	BOOL	m_bPrtLevel3;$/;"	m	class:CConfigDialog	typeref:typename:BOOL
+m_bRegistered	.\\gridctrl_src\\GridDropTarget.h	/^    BOOL       m_bRegistered;$/;"	m	class:CGridDropTarget	typeref:typename:BOOL
+m_bSingleRowSelection	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bSingleRowSelection;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bSortOnClick	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bSortOnClick;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bTitleTips	.\\gridctrl_src\\GridCtrl.h	/^    BOOL        m_bTitleTips;$/;"	m	class:CGridCtrl	typeref:typename:BOOL
+m_bitmap	.\\gridctrl_src\\MemDC.h	/^    CBitmap  m_bitmap;      \/\/ Offscreen bitmap$/;"	m	class:CMemDC	typeref:typename:CBitmap
+m_check_bExcludeVc	.\\ShortTestDialog.h	/^	BOOL		m_check_bExcludeVc;$/;"	m	class:CShortTestDialog	typeref:typename:BOOL
+m_check_bLinear	.\\ShortTestDialog.h	/^	BOOL		m_check_bLinear;$/;"	m	class:CShortTestDialog	typeref:typename:BOOL
+m_cr3DFace	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crWindowText, m_crWindowColour, m_cr3DFace,     \/\/ System colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crBkColour	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crTextColour, m_crTextBkColour, m_crBkColour,   \/\/ Grid colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crFixedBkColour	.\\gridctrl_src\\GridCtrl.h	/^                m_crFixedTextColour, m_crFixedBkColour, m_crGridColour;$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crFixedTextColour	.\\gridctrl_src\\GridCtrl.h	/^                m_crFixedTextColour, m_crFixedBkColour, m_crGridColour;$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crGridColour	.\\gridctrl_src\\GridCtrl.h	/^                m_crFixedTextColour, m_crFixedBkColour, m_crGridColour;$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crShadow	.\\gridctrl_src\\GridCtrl.h	/^                m_crShadow;    $/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crTextBkColour	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crTextColour, m_crTextBkColour, m_crBkColour,   \/\/ Grid colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crTextColour	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crTextColour, m_crTextBkColour, m_crBkColour,   \/\/ Grid colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crWindowColour	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crWindowText, m_crWindowColour, m_cr3DFace,     \/\/ System colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_crWindowText	.\\gridctrl_src\\GridCtrl.h	/^    COLORREF    m_crWindowText, m_crWindowColour, m_cr3DFace,     \/\/ System colours$/;"	m	class:CGridCtrl	typeref:typename:COLORREF
+m_edit	.\\gridctrl_src\\InPlaceList.h	/^   CComboEdit m_edit;  \/\/ subclassed edit control$/;"	m	class:CInPlaceList	typeref:typename:CComboEdit
+m_editMeasOut	.\\ShortTestDialog.h	/^	CEdit		m_editMeasOut;$/;"	m	class:CShortTestDialog	typeref:typename:CEdit
+m_editSquareMtrx	.\\ShortTestDialog.h	/^	CEdit		m_editSquareMtrx;$/;"	m	class:CShortTestDialog	typeref:typename:CEdit
+m_edit_nBadPinInput	.\\ShortTestDialog.h	/^	int			m_edit_nBadPinInput;$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_edit_nShortVbInput	.\\ShortTestDialog.h	/^	int			m_edit_nShortVbInput;$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_edit_nShortVcInput	.\\ShortTestDialog.h	/^	int			m_edit_nShortVcInput;$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_edit_nSquareN	.\\ShortTestDialog.h	/^	int			m_edit_nSquareN;$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_edit_nSquarePinNum	.\\ShortTestDialog.h	/^	int			m_edit_nSquarePinNum;$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_error_no	.\\Error.h	/^	int m_error_no;$/;"	m	class:CError	typeref:typename:int
+m_foundExtraVbBad	.\\ShortTestDialog.h	/^	CPinList	m_foundExtraVbBad;			\/\/ Vb Bad Pin 중 두번째 핀 이후의 핀들을 -1 표기하기 위한 용도$/;"	m	class:CShortTestDialog	typeref:typename:CPinList
+m_foundVbBad	.\\ShortTestDialog.h	/^	CPinList	m_foundVbBad;				\/\/ Short Test에서 감지한 Vb Bad(불량) Pin List $/;"	m	class:CShortTestDialog	typeref:typename:CPinList
+m_foundVcBad	.\\ShortTestDialog.h	/^	CPinList	m_foundVcBad;				\/\/ Short Test에서 감지한 Vc Bad(불량) Pin List $/;"	m	class:CShortTestDialog	typeref:typename:CPinList
+m_hIcon	.\\ACE400MainDlg.h	/^	HICON m_hIcon;$/;"	m	class:CACE400MainDlg	typeref:typename:HICON
+m_idCurrentCell	.\\gridctrl_src\\GridCtrl.h	/^    CCellID     m_idCurrentCell;$/;"	m	class:CGridCtrl	typeref:typename:CCellID
+m_listBadPin	.\\ShortTestDialog.h	/^	CListBox	m_listBadPin;$/;"	m	class:CShortTestDialog	typeref:typename:CListBox
+m_nCheckShort_Count	.\\ShortTestDialog.h	/^	int			m_nCheckShort_Count;		\/\/ CheckShort() 호출 횟수	$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_nCol	.\\gridctrl_src\\InPlaceList.h	/^	int		m_nCol;$/;"	m	class:CInPlaceList	typeref:typename:int
+m_nCols	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nRows, m_nFixedRows, m_nCols, m_nFixedCols;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nColumn	.\\gridctrl_src\\InPlaceEdit.h	/^    int     m_nColumn;$/;"	m	class:CInPlaceEdit	typeref:typename:int
+m_nDefCellHeight	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nDefCellWidth, m_nDefCellHeight;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nDefCellWidth	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nDefCellWidth, m_nDefCellHeight;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nFixedCols	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nRows, m_nFixedRows, m_nCols, m_nFixedCols;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nFixedRows	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nRows, m_nFixedRows, m_nCols, m_nFixedCols;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nGridLines	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nGridLines;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nHScrollMax	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nVScrollMax, m_nHScrollMax;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nLastChar	.\\gridctrl_src\\InPlaceEdit.h	/^    UINT    m_nLastChar;$/;"	m	class:CInPlaceEdit	typeref:typename:UINT
+m_nLastChar	.\\gridctrl_src\\InPlaceList.h	/^ 	UINT    m_nLastChar; $/;"	m	class:CInPlaceList	typeref:typename:UINT
+m_nMargin	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nMargin;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nMaxCol	.\\gridctrl_src\\CellRange.h	/^    int m_nMaxCol;$/;"	m	class:CCellRange	typeref:typename:int
+m_nMaxRow	.\\gridctrl_src\\CellRange.h	/^    int m_nMaxRow;$/;"	m	class:CCellRange	typeref:typename:int
+m_nMinCol	.\\gridctrl_src\\CellRange.h	/^    int m_nMinCol;$/;"	m	class:CCellRange	typeref:typename:int
+m_nMinRow	.\\gridctrl_src\\CellRange.h	/^    int m_nMinRow;$/;"	m	class:CCellRange	typeref:typename:int
+m_nNumLines	.\\gridctrl_src\\InPlaceList.h	/^	int		m_nNumLines;$/;"	m	class:CInPlaceList	typeref:typename:int
+m_nPageHeight	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nPageHeight;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nResizeCaptureRange	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nResizeCaptureRange;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nRow	.\\gridctrl_src\\InPlaceEdit.h	/^    int     m_nRow;$/;"	m	class:CInPlaceEdit	typeref:typename:int
+m_nRow	.\\gridctrl_src\\InPlaceList.h	/^	int		m_nRow;$/;"	m	class:CInPlaceList	typeref:typename:int
+m_nRows	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nRows, m_nFixedRows, m_nCols, m_nFixedCols;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nRowsPerWheelNotch	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nRowsPerWheelNotch;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nTimerID	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nTimerID;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nTimerInterval	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nTimerInterval;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nVScrollMax	.\\gridctrl_src\\GridCtrl.h	/^    int         m_nVScrollMax, m_nHScrollMax;$/;"	m	class:CGridCtrl	typeref:typename:int
+m_nVbCount	.\\ShortTestDialog.h	/^	int			m_nVbCount;		$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_nVcCount	.\\ShortTestDialog.h	/^	int			m_nVcCount;		$/;"	m	class:CShortTestDialog	typeref:typename:int
+m_pDC	.\\gridctrl_src\\MemDC.h	/^    CDC*     m_pDC;         \/\/ Saves CDC passed in constructor$/;"	m	class:CMemDC	typeref:typename:CDC *
+m_pGridCtrl	.\\gridctrl_src\\GridDropTarget.h	/^    CGridCtrl* m_pGridCtrl;$/;"	m	class:CGridDropTarget	typeref:typename:CGridCtrl *
+m_pImageList	.\\gridctrl_src\\GridCtrl.h	/^    CImageList* m_pImageList;$/;"	m	class:CGridCtrl	typeref:typename:CImageList *
+m_pOldBitmap	.\\gridctrl_src\\MemDC.h	/^    CBitmap* m_pOldBitmap;  \/\/ bitmap originally found in CMemDC$/;"	m	class:CMemDC	typeref:typename:CBitmap *
+m_pParentWnd	.\\gridctrl_src\\TitleTip.h	/^	CWnd *m_pParentWnd;$/;"	m	class:CTitleTip	typeref:typename:CWnd *
+m_rect	.\\gridctrl_src\\MemDC.h	/^    CRect    m_rect;        \/\/ Rectangle of drawing area.$/;"	m	class:CMemDC	typeref:typename:CRect
+m_rectHover	.\\gridctrl_src\\TitleTip.h	/^    CRect m_rectHover;$/;"	m	class:CTitleTip	typeref:typename:CRect
+m_rectTitle	.\\gridctrl_src\\TitleTip.h	/^	CRect m_rectTitle;$/;"	m	class:CTitleTip	typeref:typename:CRect
+m_sInitText	.\\gridctrl_src\\InPlaceEdit.h	/^    CString m_sInitText;$/;"	m	class:CInPlaceEdit	typeref:typename:CString
+m_sInitText	.\\gridctrl_src\\InPlaceList.h	/^	CString m_sInitText;$/;"	m	class:CInPlaceList	typeref:typename:CString
+m_strState	.\\Error.h	/^	CString m_strState;$/;"	m	class:CError	typeref:typename:CString
+m_waSquareMatrix	.\\ShortTestDialog.h	/^	short		m_waSquareMatrix[MAX_SQUARE_N][MAX_SQUARE_N];		\/\/ Short Test 대상$/;"	m	class:CShortTestDialog	typeref:typename:short[][]
+m_waVbOn	.\\ShortTestDialog.h	/^	short		m_waVbOn[MAX_SQUARE_N];		\/\/ Vb Switch를 붙인 pin의 Simulation 리스트 (content : pin 번/;"	m	class:CShortTestDialog	typeref:typename:short[]
+m_waVcOn	.\\ShortTestDialog.h	/^	short		m_waVcOn[MAX_SQUARE_N];		\/\/ Vc Switch를 붙인 pin의 Simulation 리스트$/;"	m	class:CShortTestDialog	typeref:typename:short[]
+makeSquare	.\\ShortTestDialog.cpp	/^void CShortTestDialog::makeSquare() $/;"	f	class:CShortTestDialog	typeref:typename:void
+mask	.\\gridctrl_src\\GridCtrl.h	/^    UINT     mask;        \/\/ Mask for use in getting\/setting cell data$/;"	m	struct:_GV_ITEM	typeref:typename:UINT
+mohm	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+msec	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+nFormat	.\\gridctrl_src\\GridCtrl.h	/^    UINT     nFormat;     \/\/ Cell format$/;"	m	class:CGridCell	typeref:typename:UINT
+nFormat	.\\gridctrl_src\\GridCtrl.h	/^    UINT     nFormat;     \/\/ Format of cell$/;"	m	struct:_GV_ITEM	typeref:typename:UINT
+nPinCnt	.\\ShortTestDialog.h	/^	int			nPinCnt;		$/;"	m	class:CPinList	typeref:typename:int
+new	.\\ACE400MainDlg.cpp	/^#define new /;"	d	file:
+new	.\\ACE400_ShortTest.cpp	/^#define new /;"	d	file:
+new	.\\ConfigDialog.cpp	/^#define new /;"	d	file:
+new	.\\Error.cpp	/^#define new /;"	d	file:
+new	.\\Globals.cpp	/^#define new /;"	d	file:
+new	.\\ShortTestDialog.cpp	/^#define new /;"	d	file:
+new	.\\gridctrl_src\\GridCtrl.cpp	/^#define new /;"	d	file:
+new	.\\gridctrl_src\\GridDropTarget.cpp	/^#define new /;"	d	file:
+new	.\\gridctrl_src\\InPlaceEdit.cpp	/^#define new /;"	d	file:
+new	.\\gridctrl_src\\InPlaceList.cpp	/^#define new /;"	d	file:
+new	.\\gridctrl_src\\TitleTip.cpp	/^#define new /;"	d	file:
+ohm	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+operator !=	.\\gridctrl_src\\CellRange.h	/^    int operator!=(const CCellID& rhs)    { return !operator==(rhs); }$/;"	f	class:CCellID	typeref:typename:int
+operator !=	.\\gridctrl_src\\CellRange.h	/^inline int CCellRange::operator!=(const CCellRange& rhs)$/;"	f	class:CCellRange	typeref:typename:int
+operator ->	.\\gridctrl_src\\MemDC.h	/^    CMemDC* operator->() {return this;}$/;"	f	class:CMemDC	typeref:typename:CMemDC *
+operator ==	.\\gridctrl_src\\CellRange.h	/^    int operator==(const CCellID& rhs)    { return (row == rhs.row && col == rhs.col); }$/;"	f	class:CCellID	typeref:typename:int
+operator ==	.\\gridctrl_src\\CellRange.h	/^inline int CCellRange::operator==(const CCellRange& rhs)$/;"	f	class:CCellRange	typeref:typename:int
+printSquare	.\\ShortTestDialog.cpp	/^CString CShortTestDialog::printSquare() $/;"	f	class:CShortTestDialog	typeref:typename:CString
+printSquare_Trace	.\\ShortTestDialog.cpp	/^void CShortTestDialog::printSquare_Trace() $/;"	f	class:CShortTestDialog	typeref:typename:void
+row	.\\gridctrl_src\\CellRange.h	/^    int row, col;$/;"	m	class:CCellID	typeref:typename:int
+row	.\\gridctrl_src\\GridCtrl.h	/^    int      row,col;     \/\/ Row and Column of item$/;"	m	struct:_GV_ITEM	typeref:typename:int
+sErrMsg	.\\Error.h	/^} sErrMsg;$/;"	t	typeref:struct:__anon99cd842f0108
+sFILE_DATA	.\\Globals.h	/^	sFILE_DATA()$/;"	f	struct:sFILE_DATA
+sFILE_DATA	.\\Globals.h	/^typedef struct sFILE_DATA$/;"	s
+sFILE_DATA	.\\Globals.h	/^} sFILE_DATA;$/;"	t	typeref:struct:sFILE_DATA
+sec	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+sol	.\\Error.h	/^    const char* sol;$/;"	m	struct:__anon99cd842f0108	typeref:typename:const char *
+state	.\\Error.h	/^    const char* state;$/;"	m	struct:__anon99cd842f0108	typeref:typename:const char *
+state	.\\gridctrl_src\\GridCtrl.h	/^    UINT     state;       \/\/ Cell state (selected\/focus etc)$/;"	m	class:CGridCell	typeref:typename:UINT
+state	.\\gridctrl_src\\GridCtrl.h	/^    UINT     state;       \/\/ cell state (focus\/hilighted etc)$/;"	m	struct:_GV_ITEM	typeref:typename:UINT
+szText	.\\gridctrl_src\\GridCtrl.h	/^    CString  szText;      \/\/ Cell text (or binary data if you wish...)$/;"	m	class:CGridCell	typeref:typename:CString
+szText	.\\gridctrl_src\\GridCtrl.h	/^    CString  szText;      \/\/ Text in cell$/;"	m	struct:_GV_ITEM	typeref:typename:CString
+tagGV_DISPINFO	.\\gridctrl_src\\GridCtrl.h	/^typedef struct tagGV_DISPINFO { $/;"	s
+tagNM_GRIDVIEW	.\\gridctrl_src\\GridCtrl.h	/^typedef struct tagNM_GRIDVIEW { $/;"	s
+theApp	.\\ACE400_ShortTest.cpp	/^CACE400_ShortTestApp theApp;$/;"	v	typeref:typename:CACE400_ShortTestApp
+title	.\\Error.h	/^    const char* title;$/;"	m	struct:__anon99cd842f0108	typeref:typename:const char *
+uA	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+uohm	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+usec	.\\Globals.h	/^enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };\/\/ sec=0, msec=1, u/;"	e	enum:UNIT
+waPin	.\\ShortTestDialog.h	/^	short		waPin[MAX_SQUARE_N];		\/\/ content : pin 번호$/;"	m	class:CPinList	typeref:typename:short[]
+~CComboEdit	.\\gridctrl_src\\InPlaceList.cpp	/^CComboEdit::~CComboEdit()$/;"	f	class:CComboEdit
+~CError	.\\Error.cpp	/^CError::~CError()$/;"	f	class:CError
+~CGlobals	.\\Globals.cpp	/^CGlobals::~CGlobals()$/;"	f	class:CGlobals
+~CGridCtrl	.\\gridctrl_src\\GridCtrl.cpp	/^CGridCtrl::~CGridCtrl()$/;"	f	class:CGridCtrl
+~CGridDropTarget	.\\gridctrl_src\\GridDropTarget.cpp	/^CGridDropTarget::~CGridDropTarget()$/;"	f	class:CGridDropTarget
+~CInPlaceEdit	.\\gridctrl_src\\InPlaceEdit.cpp	/^CInPlaceEdit::~CInPlaceEdit()$/;"	f	class:CInPlaceEdit
+~CInPlaceList	.\\gridctrl_src\\InPlaceList.cpp	/^CInPlaceList::~CInPlaceList()$/;"	f	class:CInPlaceList
+~CMemDC	.\\gridctrl_src\\MemDC.h	/^    ~CMemDC()$/;"	f	class:CMemDC
+~CTitleTip	.\\gridctrl_src\\TitleTip.cpp	/^CTitleTip::~CTitleTip()$/;"	f	class:CTitleTip

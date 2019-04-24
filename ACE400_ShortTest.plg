@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ACE400_ShortTest - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/ACE400_ShortTest.res" /d "_DEBUG" /d "_AFXDLL" "C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\ACE400_ShortTest.rc"" 
+Creating temporary file "C:\Users\User\AppData\Local\Temp\RSPF7E1.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/ACE400_ShortTest.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\ACE400_ShortTest.cpp"
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\ACE400MainDlg.cpp"
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\ConfigDialog.cpp"
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\Error.cpp"
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\Globals.cpp"
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\ShortTestDialog.cpp"
+]
+Creating command line "cl.exe @C:\Users\User\AppData\Local\Temp\RSPF7E1.tmp" 
+Creating temporary file "C:\Users\User\AppData\Local\Temp\RSPF7E2.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/ACE400_ShortTest.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\sonji\Bioptro\ACE400_ShortTest\ACE400_ShortTest\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\User\AppData\Local\Temp\RSPF7E2.tmp" 
+Creating temporary file "C:\Users\User\AppData\Local\Temp\RSPF7E3.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ACE400_ShortTest.pdb" /debug /machine:I386 /out:"Debug/ACE400_ShortTest.exe" /pdbtype:sept 
+.\Debug\ACE400_ShortTest.obj
+.\Debug\ACE400MainDlg.obj
+.\Debug\ConfigDialog.obj
+.\Debug\Error.obj
+.\Debug\Globals.obj
+.\Debug\ShortTestDialog.obj
+.\Debug\StdAfx.obj
+.\Debug\ACE400_ShortTest.res
+]
+Creating command line "link.exe @C:\Users\User\AppData\Local\Temp\RSPF7E3.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ACE400_ShortTest.cpp
+ACE400MainDlg.cpp
+ConfigDialog.cpp
+Error.cpp
+Globals.cpp
+ShortTestDialog.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+ACE400_ShortTest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

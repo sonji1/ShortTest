@@ -1,0 +1,141 @@
+// Globals.h: interface for the CGlobals class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#if !defined(AFX_GLOBALS_H__FDA16379_4221_4970_8471_B8FBD39D2C1E__INCLUDED_)
+#define AFX_GLOBALS_H__FDA16379_4221_4970_8471_B8FBD39D2C1E__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#endif // _MSC_VER > 1000
+
+#include <direct.h>
+#include <io.h>
+#include "stdafx.h"
+#include <stdarg.h>
+
+
+// __func__이나, __FUNCTION__이 VC60에선 사용불가하므로 아래 define을 사용함.
+// 사용예제: 
+//  printf("Func:%s,   Line:%d\n", FUNC(main), __LINE__);
+//   => 콘솔창에 "Func:main,  Line:22" 이렇게 출력됨.  
+//   호출할 때마다 function name을 수동으로 적어주는 idea.
+#define FUNC(fn)	#fn
+
+
+
+
+class CGlobals  
+{
+public:
+	CGlobals();
+	virtual ~CGlobals();
+
+};
+
+
+
+
+///////////////////
+// 전역 스트럭쳐
+///////////////////
+
+typedef struct sFILE_DATA
+{
+	CString	SystemDir;					// ACE400Analysis 프로그램을 수행한 디렉토리
+	CString ParameterDir;
+	CString DataDir;					
+
+
+	CString ACE400_4WDataDir;			// ACE400의 4W data Dir ("D:\\log4w");
+
+	CString SystemFileName; 
+	CString SystemFile; 
+
+	sFILE_DATA()
+	{
+		SystemFileName		= "System.";
+
+		ACE400_4WDataDir    = "D:\\log4w";
+	}
+
+	void Init()
+	{
+		// 현재 ACE400Cal을 실행한 디렉토리 위치를 가져온다.
+		char buffer[_MAX_PATH];
+		if(_getcwd( buffer, _MAX_PATH ) == NULL)
+		{
+			AfxMessageBox("Root directory not found.");
+			return;
+		}
+
+		SystemDir.Format("%s", buffer);
+		//ParameterDir	= SystemDir + "\\" + "Parameter";
+		DataDir			= SystemDir + "\\" + "Data";
+
+		//if( (_access(ParameterDir, 0 )) == -1 )	_mkdir(ParameterDir);
+		if( (_access(DataDir, 0 )) == -1 )		
+			_mkdir(DataDir);
+
+		SystemFile		= ParameterDir	+ "\\" + SystemFileName;
+	}
+
+} sFILE_DATA;
+
+
+
+///////////////
+// 전역 변수 
+///////////////
+
+enum UNIT			{ sec=0, msec=1, usec=2, mA, uA, Mohm, Kohm, ohm, mohm, uohm };// sec=0, msec=1, usec=2 고정
+enum UNIT_CONVERT_TYPE	{ 
+	MM_TO_UM, UM_TO_MM, SEC_TO_MSEC, MSEC_TO_SEC
+};
+
+enum PRT_TYPE { PRT_BASIC, 					// 0x0001
+				PRT_LEVEL1, 				// 0x0002
+				PRT_LEVEL2, 				// 0x0003
+				PRT_LEVEL3, 				// 0x0004
+				PRT_DEVICE, 				// 0x0005
+				PRT_DEV_D64,				// 0x0006
+
+//				PRT_TIMEOFF = 0x0100		// 0x0100
+};
+
+extern WORD			g_wPrintState;
+extern sFILE_DATA 	g_sFile;
+
+// BASIC 레벨에 Time header off로 출력하고자 할 때 사용
+//#define		PRT_TMFBAS		(PRT_BASIC | PRT_TIMEOFF)
+
+
+
+////////////////
+// 전역 함수
+////////////////
+
+
+extern	void		DoEvents(DWORD dwMilliseconds=0);
+extern  void		Delay(UINT delaytime=0, UINT unit=usec);
+extern  __int64 	GetMicroSecond();  //sylee
+extern  BOOL		FileExists(CString strFilePath);
+extern  void 		GetDateAndTime(char *datetime);
+extern  SIZE_T 		GetProcessWorkingSetSize();
+extern  void 		__PrintMemSize(char* strFunc, int line);
+extern  void 		__PrintLine(char* strFile, int line);
+#define	__LINE_PRT__	(__PrintLine(__FILE__, __LINE__));
+
+extern  void 		AFX_CDECL MyTrace(PRT_TYPE prtType, LPCTSTR lpszFormat, ...);
+
+extern  double 		p_tdist(double t, int df);		// TDist.cpp
+
+//extern  int  		AFX_CDECL MyTrace2(PRT_TYPE prtType, char* pStr, int strSize, LPCTSTR lpszFormat, ...);
+//extern  int  		AFX_CDECL MySnprintf(PRT_TYPE prtType, char* pStr, int strSize, LPCTSTR lpszFormat, ...);
+//extern  BOOL		CreateFolder(LPCTSTR szFolder);
+//extern  BOOL		DeleteSubDir(const TCHAR* sPath);
+//extern  void		DeleteFolder(char *strDirectory);
+
+
+
+#endif // !defined(AFX_GLOBALS_H__FDA16379_4221_4970_8471_B8FBD39D2C1E__INCLUDED_)
